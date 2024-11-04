@@ -54,7 +54,6 @@ def var_clean(df,df_gpus,df_cpus,df_company,df_type):
     df['Gpu'] = df['Gpu'].str.lower().str.replace("nvidia ","").str.replace("amd ","").str.replace('intel hd graphics','intel hd').str.replace('intel iris plus graphics','intel iris plus')
     df = pd.merge(df,df_gpus, how='left',left_on='Gpu',right_on='name')
     df['gpu_score'] = np.where((df['Gpu'].str.contains('intel hd')) & (df['gpu_score'].isna()),200,df['gpu_score'])
-    df['cpu_score'].fillna(df['cpu_score'].mean(),inplace=True)
     ### OS: limpieza
     df['OpSys'] = df['OpSys'].str.lower()
     df['linux']=np.where(df['OpSys'].str.contains('linux'),1,0).astype(int)
@@ -69,8 +68,10 @@ def var_clean(df,df_gpus,df_cpus,df_company,df_type):
     df['hdd']=np.where(df['Memory'].str.contains('hdd'),1,0).astype(int)
     df['Memory'] = df['Memory'].str.extract('(\d+)').astype(int)
     ###Rellenado de nans
-    df['ghz'].fillna(df['ghz'].mean(),inplace=True)
-    df['gpu_score'].fillna(df['gpu_score'].mean(),inplace=True)
+    df['ghz'] = df['ghz'].fillna(df['ghz'].mean())
+    df['gpu_score'] = df['gpu_score'].fillna(df['gpu_score'].mean())
+    df['cpu_score'] = df['cpu_score'].fillna(df['cpu_score'].mean())
+
     return df
 
 
