@@ -9,5 +9,5 @@ This repository stores all the code I used to win [this Kaggle competition](http
 - Several logarithms were tested: linear, polinomical, gradient boost and random forest. The winning model was a **gradient boost with the polinomical features of degree = 2**.
 
 ## Main files:
-- [Work journal](work_journal.ipynb) is a work journal for the whole project. Visualiizations, modelization and utilities usage is found here.
+- [Work journal](work_journal.ipynb) is the main file for the project. Visualizations, modelization and utilities usage is found here.
 - [Utils](utils.py) stores the functions used for the project.
