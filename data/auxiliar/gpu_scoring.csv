@@ -1,0 +1,2695 @@
+name,gpu_score
+0,256mb ddr radeon 9800 xt,38.0
+1,7900 mod - radeon hd 6520g,610.0
+2,7900 mod - radeon hd 6550d,893.0
+3,a10-8q,7042.0
+4,a16,5236.0
+5,a16-16a,1069.0
+6,a16-2b,3141.0
+7,a16-2q,4583.0
+8,a16-4q,4166.0
+9,a40-24q,2616.0
+10,a40-48q,17864.0
+11,a40-6q,787.0
+12,a6 micro-6500t quad-core apu with radeonr4,220.0
+13,abit siluro t400,4.0
+14,all-in-wonder 9000,5.0
+15,all-in-wonder 9800,23.0
+16,all-in-wonder radeon 8500dv,6.0
+17,all-in-wonder x1800xl,30.0
+18,all-in-wonder x1900,127.0
+19,all-in-wonder x800 gt,84.0
+20,amd ryzen z1 extreme,6988.0
+21,amigamerlin 3.1-r1 for voodoo 4 4500 pci,3.0
+22,asus a7000,9.0
+23,asus agp-v3800pro v31.40h,5.0
+24,asus eah4870x2,496.0
+25,asus gtx 650 fml ii ec-egpu,721.0
+26,asus v9520-x v62.11,8.0
+27,b8dkmdap,4557.0
+28,barco mxrt 1450,206.0
+29,barco mxrt 2600,900.0
+30,barco mxrt 5400,1161.0
+31,barco mxrt 5450,1079.0
+32,barco mxrt 5500,2702.0
+33,barco mxrt 5600,2466.0
+34,barco mxrt 7100,180.0
+35,barco mxrt 7400,901.0
+36,barco mxrt 7500,3753.0
+37,barco mxrt 7600,4944.0
+38,basicdisplay,70.0
+39,carrizo 9874,247.0
+40,citrix indirect display adapter,2366.0
+41,cmp 30hx,8136.0
+42,cmp 40hx,6778.0
+43,connect 3d radeon x300,36.0
+44,custom gpu 0405,2853.0
+45,custom gpu 0932,3396.0
+46,dell 8100,2.0
+47,dell 8200,4.0
+48,diamond x1300-pcie 256mb,70.0
+49,eah5450,134.0
+50,eg park,141.0
+51,eizo med-x5000,3038.0
+52,eizo med-xn43,3843.0
+53,eizo quadro med-xn51lp,5048.0
+54,eizo quadro med-xn72,8101.0
+55,embedded radeon e9173,1788.0
+56,eng sample: 100-000000261-50_y,2860.0
+57,eng sample: 100-000000371-40_42/18_y,1965.0
+58,eng sample: 100-000000534-40_y,3237.0
+59,eng sample: 100-000000545-40_y,3692.0
+60,extreme ax850 pro,120.0
+61,firegl t2-128,31.0
+62,firegl v3100,53.0
+63,firegl v3200,85.0
+64,firegl v3300,71.0
+65,firegl v3350,69.0
+66,firegl v3400,103.0
+67,firegl v3600,180.0
+68,firegl v5100,93.0
+69,firegl v5200,115.0
+70,firegl v5600,341.0
+71,firegl v7100,72.0
+72,firegl v7200,116.0
+73,firegl v7300,128.0
+74,firegl v7350,111.0
+75,firegl v7600,616.0
+76,firegl v7700,660.0
+77,firegl v8600,839.0
+78,firegl v8650,550.0
+79,firegl x1,59.0
+80,firemv 2200 pci,1.0
+81,firemv 2200 pcie,36.0
+82,firemv 2250,46.0
+83,firemv 2260,117.0
+84,firemv 2400 pcie,11.0
+85,firemv 2450,74.0
+86,firepro 2260,113.0
+87,firepro 2270,142.0
+88,firepro 2450,51.0
+89,firepro 2460,170.0
+90,firepro 3d v3700,179.0
+91,firepro 3d v3750,341.0
+92,firepro 3d v3800,472.0
+93,firepro 3d v4800,854.0
+94,firepro 3d v5700,547.0
+95,firepro 3d v5800,1232.0
+96,firepro 3d v7750,545.0
+97,firepro 3d v7800,1867.0
+98,firepro 3d v8700,1206.0
+99,firepro 3d v8750,1272.0
+100,firepro 3d v8800,2438.0
+101,firepro 3d v9800,2812.0
+102,firepro m2000,425.0
+103,firepro m4000,1593.0
+104,firepro m4000 mobility pro,1628.0
+105,firepro m40003,1364.0
+106,firepro m4100,1059.0
+107,firepro m4150,949.0
+108,firepro m4170,1182.0
+109,firepro m5100,2103.0
+110,firepro m5100 firegl v,1839.0
+111,firepro m5950,1314.0
+112,firepro m6000,1820.0
+113,firepro m6000 mobility pro,1712.0
+114,firepro m6100,2152.0
+115,firepro m6100 firegl v,2875.0
+116,firepro m7740,665.0
+117,firepro r5000,2647.0
+118,firepro rg220,335.0
+119,firepro s10000,4768.0
+120,firepro s7000,4524.0
+121,firepro s7150,3208.0
+122,firepro s9000,5059.0
+123,firepro s9050,4901.0
+124,firepro v3800,321.0
+125,firepro v3900,640.0
+126,firepro v4900,990.0
+127,firepro v5700,465.0
+128,firepro v5800,1176.0
+129,firepro v5900,1265.0
+130,firepro v7000,3162.0
+131,firepro v7800,2028.0
+132,firepro v7900,2305.0
+133,firepro v8700,1539.0
+134,firepro v8800,2281.0
+135,firepro v9800,2727.0
+136,firepro w2100,869.0
+137,firepro w4100,1514.0
+138,firepro w4170m,1033.0
+139,firepro w4190m,1151.0
+140,firepro w4300,2820.0
+141,firepro w5000,2976.0
+142,firepro w5100,2988.0
+143,firepro w5130m,1410.0
+144,firepro w5170m,1778.0
+145,firepro w600,1671.0
+146,firepro w6150m,2358.0
+147,firepro w7000,4288.0
+148,firepro w7000 adapter,4359.0
+149,firepro w7100,5264.0
+150,firepro w7170m,3162.0
+151,firepro w8000,4149.0
+152,firepro w8100,7333.0
+153,firepro w9000,6138.0
+154,firepro w9100,7580.0
+155,firestream 9170,647.0
+156,firestream 9250,1165.0
+157,firestream 9270,1341.0
+158,firestream 9370,2528.0
+159,gecube radeon 7000,9.0
+160,geforce 205,126.0
+161,geforce 210,116.0
+162,geforce 240m gt,320.0
+163,geforce 256,5.0
+164,geforce 305m,151.0
+165,geforce 310,135.0
+166,geforce 310m,116.0
+167,geforce 315,156.0
+168,geforce 315m,115.0
+169,geforce 320m,210.0
+170,geforce 405,120.0
+171,geforce 410m,256.0
+172,geforce 505,118.0
+173,geforce 510,255.0
+174,geforce 605,320.0
+175,geforce 6100,27.0
+176,geforce 6100 nforce 400,25.0
+177,geforce 6100 nforce 405,27.0
+178,geforce 6100 nforce 420,25.0
+179,geforce 6100 nforce 430,23.0
+180,geforce 610m,290.0
+181,geforce 615,514.0
+182,geforce 6150,22.0
+183,geforce 6150 le,33.0
+184,geforce 6150se,25.0
+185,geforce 6150se nforce 430,31.0
+186,geforce 6200,37.0
+187,geforce 6200 a-le,32.0
+188,geforce 6200 le,28.0
+189,geforce 6200 turbocache,53.0
+190,geforce 6200a,4.0
+191,geforce 6200se turbocache,37.0
+192,geforce 6500,38.0
+193,geforce 6600,86.0
+194,geforce 6600 gt,143.0
+195,geforce 6600 le,51.0
+196,geforce 6610 xl,89.0
+197,geforce 6700 xl,95.0
+198,geforce 6800,113.0
+199,geforce 6800 gs,192.0
+200,geforce 6800 gs/xt,103.0
+201,geforce 6800 gt,142.0
+202,geforce 6800 le,110.0
+203,geforce 6800 ultra,139.0
+204,geforce 6800 xe,59.0
+205,geforce 6800 xt,123.0
+206,geforce 7000m,13.0
+207,geforce 7000m / nforce 610m,13.0
+208,geforce 7025 / nforce 630a,33.0
+209,geforce 7050 / nforce 610i,26.0
+210,geforce 7050 / nforce 620i,42.0
+211,geforce 7050 / nforce 630i,38.0
+212,geforce 7050 pv / nforce 630a,31.0
+213,geforce 705m,456.0
+214,geforce 7100 / nforce 620i,26.0
+215,geforce 7100 / nforce 630i,42.0
+216,geforce 7100 gs,51.0
+217,geforce 710a,473.0
+218,geforce 710m,459.0
+219,geforce 7150 / nforce 630i,33.0
+220,geforce 7150m / nforce 630m,18.0
+221,geforce 7200 gs,23.0
+222,geforce 720a,614.0
+223,geforce 7300 gs,79.0
+224,geforce 7300 gt,137.0
+225,geforce 7300 le,80.0
+226,geforce 7300 se,39.0
+227,geforce 7300 se/7200 gs,48.0
+228,geforce 730a,770.0
+229,geforce 7350 le,74.0
+230,geforce 7500 le,90.0
+231,geforce 7600 gs,157.0
+232,geforce 7600 gt,225.0
+233,geforce 7650 gs,134.0
+234,geforce 770m,3246.0
+235,geforce 7800 gs,177.0
+236,geforce 7800 gt,244.0
+237,geforce 7800 gtx,291.0
+238,geforce 7900 gs,254.0
+239,geforce 7900 gt,258.0
+240,geforce 7900 gt/gto,247.0
+241,geforce 7900 gtx,388.0
+242,geforce 7950 gt,348.0
+243,geforce 7950 gx2,202.0
+244,geforce 7950 xtreme,288.0
+245,geforce 800a,477.0
+246,geforce 800m,457.0
+247,geforce 8100 / nforce 720a,79.0
+248,geforce 810a,655.0
+249,geforce 810m,411.0
+250,geforce 8200,156.0
+251,geforce 8200m g,58.0
+252,geforce 820a,556.0
+253,geforce 820m,495.0
+254,geforce 825m,782.0
+255,geforce 8300,102.0
+256,geforce 8300 gs,115.0
+257,geforce 830a,1138.0
+258,geforce 830m,1008.0
+259,geforce 8400,81.0
+260,geforce 8400 gs,154.0
+261,geforce 8400 se,68.0
+262,geforce 8400m g,59.0
+263,geforce 8400m gs,109.0
+264,geforce 8400m gt,67.0
+265,geforce 840a,1145.0
+266,geforce 840m,1091.0
+267,geforce 845m,1524.0
+268,geforce 8500 gt,139.0
+269,geforce 8600 gs,92.0
+270,geforce 8600 gt,123.0
+271,geforce 8600 gts,159.0
+272,geforce 8600m gs,70.0
+273,geforce 8600m gt,90.0
+274,geforce 8700m gt,124.0
+275,geforce 8800 gs,330.0
+276,geforce 8800 gt,479.0
+277,geforce 8800 gts,413.0
+278,geforce 8800 gts 512,568.0
+279,geforce 8800 gtx,590.0
+280,geforce 8800 ultra,643.0
+281,geforce 8800m gts,382.0
+282,geforce 8800m gtx,462.0
+283,geforce 9100,82.0
+284,geforce 9100m g,68.0
+285,geforce 910m,601.0
+286,geforce 9200,169.0
+287,geforce 9200m ge,144.0
+288,geforce 9200m gs,111.0
+289,geforce 920a,836.0
+290,geforce 920m,721.0
+291,geforce 920mx,1082.0
+292,geforce 9300,127.0
+293,geforce 9300 / nforce 730i,129.0
+294,geforce 9300 ge,80.0
+295,geforce 9300 gs,102.0
+296,geforce 9300 se,82.0
+297,geforce 9300ge,98.0
+298,geforce 9300m g,85.0
+299,geforce 9300m gs,100.0
+300,geforce 930a,1267.0
+301,geforce 930m,1013.0
+302,geforce 930mx,1288.0
+303,geforce 9400,99.0
+304,geforce 9400 gt,163.0
+305,geforce 9400m,101.0
+306,geforce 9400m g,68.0
+307,geforce 940a,1107.0
+308,geforce 940m,1126.0
+309,geforce 940mx,1518.0
+310,geforce 9450,105.0
+311,geforce 945a,1852.0
+312,geforce 945m,2109.0
+313,geforce 9500 gs,185.0
+314,geforce 9500 gt,164.0
+315,geforce 9500m,104.0
+316,geforce 9500m g,122.0
+317,geforce 9500m gs,134.0
+318,geforce 9600 gs,282.0
+319,geforce 9600 gso,328.0
+320,geforce 9600 gso 512,330.0
+321,geforce 9600 gt,488.0
+322,geforce 9600m gs,131.0
+323,geforce 9600m gt,140.0
+324,geforce 9600m gt / geforce gt 220m,293.0
+325,geforce 9650m gs,270.0
+326,geforce 9650m gt,137.0
+327,geforce 9700m gt,209.0
+328,geforce 9700m gts,278.0
+329,geforce 9800 gt,461.0
+330,geforce 9800 gt 1024mb,134.0
+331,geforce 9800 gtx,769.0
+332,geforce 9800 gtx+,494.0
+333,geforce 9800 gtx/9800 gtx+,605.0
+334,geforce 9800 gx2,798.0
+335,geforce 9800 s,636.0
+336,geforce 9800m gs,555.0
+337,geforce 9800m gt,381.0
+338,geforce 9800m gts,376.0
+339,geforce 9800m gtx,454.0
+340,geforce 999 gtx,84.0
+341,geforce fx 5100,8.0
+342,geforce fx 5200,8.0
+343,geforce fx 5200 ultra,12.0
+344,geforce fx 5200le,7.0
+345,geforce fx 5200se,12.0
+346,geforce fx 5500,8.0
+347,geforce fx 5600,13.0
+348,geforce fx 5600 ultra,17.0
+349,geforce fx 5600xt,9.0
+350,geforce fx 5700,41.0
+351,geforce fx 5700 ultra,34.0
+352,geforce fx 5700le,25.0
+353,geforce fx 5700ve,33.0
+354,geforce fx 5900,35.0
+355,geforce fx 5900 ultra,41.0
+356,geforce fx 5900xt,40.0
+357,geforce fx 5900zt,33.0
+358,geforce fx 5950 ultra,59.0
+359,geforce fx go 5200,8.0
+360,geforce fx go 5600,18.0
+361,geforce fx go5300,13.0
+362,geforce fx go5650,17.0
+363,geforce fx go5700,51.0
+364,geforce g 103m,63.0
+365,geforce g 105m,63.0
+366,geforce g100,185.0
+367,geforce g102m,168.0
+368,geforce g105m,122.0
+369,geforce g200,136.0
+370,geforce g205m,92.0
+371,geforce g210,113.0
+372,geforce g210m,117.0
+373,geforce go 6100,18.0
+374,geforce go 6150,19.0
+375,geforce go 6200,15.0
+376,geforce go 6400,24.0
+377,geforce go 6600,69.0
+378,geforce go 6600 te/6200 te,45.0
+379,geforce go 6800,106.0
+380,geforce go 6800 ultra,138.0
+381,geforce go 7200,45.0
+382,geforce go 7300,52.0
+383,geforce go 7400,66.0
+384,geforce go 7600,128.0
+385,geforce go 7600 gt,210.0
+386,geforce go 7700,148.0
+387,geforce go 7800,115.0
+388,geforce go 7800 gtx,210.0
+389,geforce go 7900 gs,176.0
+390,geforce go 7900 gtx,270.0
+391,geforce go 7950 gtx,264.0
+392,geforce gpu,1186.0
+393,geforce gt 1030,2458.0
+394,geforce gt 120,160.0
+395,geforce gt 120 / 9500 gt,325.0
+396,geforce gt 120m,151.0
+397,geforce gt 130,381.0
+398,geforce gt 130m,146.0
+399,geforce gt 140,658.0
+400,geforce gt 220,219.0
+401,geforce gt 220m,122.0
+402,geforce gt 230,323.0
+403,geforce gt 230m,212.0
+404,geforce gt 240,506.0
+405,geforce gt 240m,213.0
+406,geforce gt 320,461.0
+407,geforce gt 320m,106.0
+408,geforce gt 325m,170.0
+409,geforce gt 330,395.0
+410,geforce gt 330m,216.0
+411,geforce gt 335m,382.0
+412,geforce gt 340,738.0
+413,geforce gt 415,251.0
+414,geforce gt 415m,286.0
+415,geforce gt 420,424.0
+416,geforce gt 420m,397.0
+417,geforce gt 425m,522.0
+418,geforce gt 430,599.0
+419,geforce gt 435m,536.0
+420,geforce gt 440,771.0
+421,geforce gt 445m,811.0
+422,geforce gt 520,312.0
+423,geforce gt 520m,283.0
+424,geforce gt 520mx,284.0
+425,geforce gt 525m,460.0
+426,geforce gt 530,666.0
+427,geforce gt 540m,479.0
+428,geforce gt 545,1105.0
+429,geforce gt 550m,573.0
+430,geforce gt 555m,654.0
+431,geforce gt 610,312.0
+432,geforce gt 610m / gt 620m / gt 710m / gt 720m / gt,369.0
+433,geforce gt 620,377.0
+434,geforce gt 620m,434.0
+435,geforce gt 625,353.0
+436,geforce gt 625m,479.0
+437,geforce gt 630,677.0
+438,geforce gt 630m,538.0
+439,geforce gt 635,832.0
+440,geforce gt 635m,559.0
+441,geforce gt 640,1177.0
+442,geforce gt 640m,925.0
+443,geforce gt 640m le,706.0
+444,geforce gt 645,2006.0
+445,geforce gt 645m,934.0
+446,geforce gt 650m,1204.0
+447,geforce gt 705,336.0
+448,geforce gt 710,628.0
+449,geforce gt 710m,444.0
+450,geforce gt 720,614.0
+451,geforce gt 720a,574.0
+452,geforce gt 720m,460.0
+453,geforce gt 730,835.0
+454,geforce gt 730a,743.0
+455,geforce gt 730m,815.0
+456,geforce gt 735m,648.0
+457,geforce gt 740,1482.0
+458,geforce gt 740a,668.0
+459,geforce gt 740m,797.0
+460,geforce gt 745a,1241.0
+461,geforce gt 745m,1091.0
+462,geforce gt 750m,1331.0
+463,geforce gt 755m,1689.0
+464,geforce gt 820m,561.0
+465,geforce gt625m,457.0
+466,geforce gts 150m,504.0
+467,geforce gts 160m,679.0
+468,geforce gts 240,556.0
+469,geforce gts 250,597.0
+470,geforce gts 250m,554.0
+471,geforce gts 350m,408.0
+472,geforce gts 360m,654.0
+473,geforce gts 450,1323.0
+474,geforce gtx 1050,5036.0
+475,geforce gtx 1050 (mobile),4462.0
+476,geforce gtx 1050 3gb,5106.0
+477,geforce gtx 1050 ti,6314.0
+478,geforce gtx 1050 ti (mobile),5919.0
+479,geforce gtx 1050 ti with max-q design,5353.0
+480,geforce gtx 1050 with max-q design,4073.0
+481,geforce gtx 1060,10074.0
+482,geforce gtx 1060 (mobile),8161.0
+483,geforce gtx 1060 3gb,9763.0
+484,geforce gtx 1060 5gb,9094.0
+485,geforce gtx 1060 with max-q design,7918.0
+486,geforce gtx 1070,13497.0
+487,geforce gtx 1070 (mobile),10465.0
+488,geforce gtx 1070 ti,14692.0
+489,geforce gtx 1070 with max-q design,9933.0
+490,geforce gtx 1080,15537.0
+491,geforce gtx 1080 ti,18566.0
+492,geforce gtx 1080 with max-q design,11521.0
+493,geforce gtx 1630,4982.0
+494,geforce gtx 1650,7872.0
+495,geforce gtx 1650 (mobile),6969.0
+496,geforce gtx 1650 super,10162.0
+497,geforce gtx 1650 ti,7539.0
+498,geforce gtx 1650 ti with max-q design,6408.0
+499,geforce gtx 1650 with max-q design,6170.0
+500,geforce gtx 1660,11678.0
+501,geforce gtx 1660 super,12752.0
+502,geforce gtx 1660 ti,12916.0
+503,geforce gtx 1660 ti (mobile),10187.0
+504,geforce gtx 1660 ti with max-q design,8610.0
+505,geforce gtx 260,1218.0
+506,geforce gtx 260m,379.0
+507,geforce gtx 275,1387.0
+508,geforce gtx 280,1299.0
+509,geforce gtx 280m,576.0
+510,geforce gtx 285,1513.0
+511,geforce gtx 285m,636.0
+512,geforce gtx 295,1206.0
+513,geforce gtx 460,2264.0
+514,geforce gtx 460 se,1985.0
+515,geforce gtx 460 v2,1872.0
+516,geforce gtx 460m,1207.0
+517,geforce gtx 465,2650.0
+518,geforce gtx 470,3107.0
+519,geforce gtx 470m,1953.0
+520,geforce gtx 480,4107.0
+521,geforce gtx 480m,1617.0
+522,geforce gtx 485m,2360.0
+523,geforce gtx 550 ti,1554.0
+524,geforce gtx 555,1572.0
+525,geforce gtx 560,2755.0
+526,geforce gtx 560 se,1914.0
+527,geforce gtx 560 ti,3051.0
+528,geforce gtx 560m,1261.0
+529,geforce gtx 570,3924.0
+530,geforce gtx 570m,1864.0
+531,geforce gtx 580,4602.0
+532,geforce gtx 580m,2074.0
+533,geforce gtx 590,3341.0
+534,geforce gtx 645,1882.0
+535,geforce gtx 650,1750.0
+536,geforce gtx 650 ti,2525.0
+537,geforce gtx 650 ti boost,3337.0
+538,geforce gtx 660,4001.0
+539,geforce gtx 660 ti,4429.0
+540,geforce gtx 660m,1443.0
+541,geforce gtx 670,5330.0
+542,geforce gtx 670m,1746.0
+543,geforce gtx 670mx,1951.0
+544,geforce gtx 675m,1928.0
+545,geforce gtx 675mx,2717.0
+546,geforce gtx 680,5566.0
+547,geforce gtx 680m,3228.0
+548,geforce gtx 680m ky_bullet edition,3569.0
+549,geforce gtx 680mx,4138.0
+550,geforce gtx 690,5513.0
+551,geforce gtx 745,2138.0
+552,geforce gtx 750,3348.0
+553,geforce gtx 750 ti,3901.0
+554,geforce gtx 760,4794.0
+555,geforce gtx 760 ti,5241.0
+556,geforce gtx 760 ti oem,5427.0
+557,geforce gtx 760a,1226.0
+558,geforce gtx 760m,1720.0
+559,geforce gtx 765m,1998.0
+560,geforce gtx 770,5921.0
+561,geforce gtx 770m,2794.0
+562,geforce gtx 775m,3635.0
+563,geforce gtx 780,8006.0
+564,geforce gtx 780 ti,9528.0
+565,geforce gtx 780m,3854.0
+566,geforce gtx 850a,1050.0
+567,geforce gtx 850m,2516.0
+568,geforce gtx 850m - modded,1092.0
+569,geforce gtx 860m,3047.0
+570,geforce gtx 870m,3450.0
+571,geforce gtx 880m,3818.0
+572,geforce gtx 950,5336.0
+573,geforce gtx 950a,2554.0
+574,geforce gtx 950m,2587.0
+575,geforce gtx 960,6080.0
+576,geforce gtx 960a,3355.0
+577,geforce gtx 960m,3377.0
+578,geforce gtx 965m,3794.0
+579,geforce gtx 970,9637.0
+580,geforce gtx 970m,5724.0
+581,geforce gtx 970xm force,6707.0
+582,geforce gtx 980,11101.0
+583,geforce gtx 980 ti,13808.0
+584,geforce gtx 980m,7357.0
+585,geforce gtx titan,8190.0
+586,geforce gtx titan black,8972.0
+587,geforce gtx titan x,12938.0
+588,geforce gtx titan z,8942.0
+589,geforce mx110,1435.0
+590,geforce mx130,1835.0
+591,geforce mx150,2272.0
+592,geforce mx230,1835.0
+593,geforce mx250,2412.0
+594,geforce mx330,2434.0
+595,geforce mx350,2806.0
+596,geforce mx450,3735.0
+597,geforce mx550,4541.0
+598,geforce mx570,5729.0
+599,geforce mx570 a,5993.0
+600,geforce pcx 5300,6.0
+601,geforce pcx 5750,35.0
+602,geforce pcx 5900,34.0
+603,geforce rtx 2050,7646.0
+604,geforce rtx 2060,14147.0
+605,geforce rtx 2060 (mobile),11355.0
+606,geforce rtx 2060 12gb,15912.0
+607,geforce rtx 2060 super,16533.0
+608,geforce rtx 2060 with max-q design,9763.0
+609,geforce rtx 2070,16152.0
+610,geforce rtx 2070 (mobile),12354.0
+611,geforce rtx 2070 super,18228.0
+612,geforce rtx 2070 super with max-q design,13735.0
+613,geforce rtx 2070 with max-q design,11665.0
+614,geforce rtx 2080,18794.0
+615,geforce rtx 2080 (mobile),15107.0
+616,geforce rtx 2080 super,19576.0
+617,geforce rtx 2080 super with max-q design,13843.0
+618,geforce rtx 2080 ti,21743.0
+619,geforce rtx 2080 with max-q design,13087.0
+620,geforce rtx 3050 4gb laptop gpu,6757.0
+621,geforce rtx 3050 6gb,10658.0
+622,geforce rtx 3050 6gb laptop gpu,10336.0
+623,geforce rtx 3050 8gb,12812.0
+624,geforce rtx 3050 a laptop gpu,6038.0
+625,geforce rtx 3050 laptop gpu,9461.0
+626,geforce rtx 3050 oem,11971.0
+627,geforce rtx 3050 ti laptop gpu,10141.0
+628,geforce rtx 3060 12gb,17000.0
+629,geforce rtx 3060 8gb,15399.0
+630,geforce rtx 3060 laptop gpu,13356.0
+631,geforce rtx 3060 ti,20496.0
+632,geforce rtx 3070,22372.0
+633,geforce rtx 3070 laptop gpu,15457.0
+634,geforce rtx 3070 ti,23582.0
+635,geforce rtx 3070 ti laptop gpu,17978.0
+636,geforce rtx 3080,25229.0
+637,geforce rtx 3080 12gb,26679.0
+638,geforce rtx 3080 laptop gpu,16448.0
+639,geforce rtx 3080 ti,27126.0
+640,geforce rtx 3080 ti laptop gpu,19738.0
+641,geforce rtx 3090,26735.0
+642,geforce rtx 3090 ti,29695.0
+643,geforce rtx 4050 laptop gpu,14436.0
+644,geforce rtx 4060,19907.0
+645,geforce rtx 4060 laptop gpu,17652.0
+646,geforce rtx 4060 ti,22895.0
+647,geforce rtx 4060 ti 16gb,22862.0
+648,geforce rtx 4070,26980.0
+649,geforce rtx 4070 laptop gpu,19533.0
+650,geforce rtx 4070 super,30193.0
+651,geforce rtx 4070 ti,31820.0
+652,geforce rtx 4070 ti super,31648.0
+653,geforce rtx 4080,34623.0
+654,geforce rtx 4080 laptop gpu,25135.0
+655,geforce rtx 4080 super,34218.0
+656,geforce rtx 4090,38589.0
+657,geforce rtx 4090 d,37631.0
+658,geforce rtx 4090 laptop gpu,27717.0
+659,geforce2 go,4.0
+660,geforce2 gts/geforce2 pro,4.0
+661,geforce2 integrated gpu,4.0
+662,geforce2 mx,3.0
+663,geforce2 mx 100/200,3.0
+664,geforce2 mx with dvi-d and tv-out,5.0
+665,geforce2 mx with tv out,3.0
+666,geforce2 mx/mx 400,4.0
+667,geforce2 ti,5.0
+668,geforce2 ultra,6.0
+669,geforce3,5.0
+670,geforce3 ti 200,4.0
+671,geforce3 ti 500,3.0
+672,geforce4 420 go,3.0
+673,geforce4 420 go 32m,5.0
+674,geforce4 4200 go,4.0
+675,geforce4 440,5.0
+676,geforce4 440 go,4.0
+677,geforce4 440 go 64m,6.0
+678,geforce4 448 go,6.0
+679,geforce4 mx 4000,5.0
+680,geforce4 mx 420,5.0
+681,geforce4 mx 440,5.0
+682,geforce4 mx 440 with agp8x,5.0
+683,geforce4 mx 440se,5.0
+684,geforce4 mx 460,4.0
+685,geforce4 mx integrated gpu,7.0
+686,geforce4 ti 4200,6.0
+687,geforce4 ti 4400,7.0
+688,geforce4 ti 4600,6.0
+689,geforce4 ti 4800,6.0
+690,geforce4 ti 4800 se,7.0
+691,geforce9400m,106.0
+692,gf117,554.0
+693,glenfly arise-gt-10c0,1007.0
+694,grid gtx p40-6,4340.0
+695,grid k1,651.0
+696,grid k120q,293.0
+697,grid k140q,728.0
+698,grid k160q,628.0
+699,grid k180q,534.0
+700,grid k2,2737.0
+701,grid k220q,912.0
+702,grid k240q,2541.0
+703,grid k260q,2949.0
+704,grid k280q,2840.0
+705,grid k520,3516.0
+706,grid m10-0b,871.0
+707,grid m10-0q,796.0
+708,grid m10-1b,2310.0
+709,grid m10-1q,3351.0
+710,grid m10-2b,2363.0
+711,grid m10-2q,2692.0
+712,grid m10-4q,2977.0
+713,grid m10-8q,1756.0
+714,grid m6-0b,912.0
+715,grid m6-1q,2069.0
+716,grid m6-8q,3568.0
+717,grid m60-0b,1838.0
+718,grid m60-0q,827.0
+719,grid m60-1b,4457.0
+720,grid m60-1q,3695.0
+721,grid m60-2q,5203.0
+722,grid m60-4q,3831.0
+723,grid m60-8a,5523.0
+724,grid m60-8q,3884.0
+725,grid p100-16q,5945.0
+726,grid p100-1b,2223.0
+727,grid p100-8q,3267.0
+728,grid p4-1b,2151.0
+729,grid p4-1q,375.0
+730,grid p4-4q,6843.0
+731,grid p4-8a,3206.0
+732,grid p4-8q,6733.0
+733,grid p40-12q,11028.0
+734,grid p40-1a,4909.0
+735,grid p40-24q,8719.0
+736,grid p40-2b,9842.0
+737,grid p40-2b4,9111.0
+738,grid p40-2q,4844.0
+739,grid p40-3q,681.0
+740,grid p40-4q,5365.0
+741,grid p40-6q,905.0
+742,grid p40-8q,7432.0
+743,grid p6-2q,3926.0
+744,grid p6-4a,2639.0
+745,grid p6-4q,4429.0
+746,grid rtx6000-1b,8473.0
+747,grid rtx6000-6q,21987.0
+748,grid rtx6000p-4q,4283.0
+749,grid rtx6000p-6q,4777.0
+750,grid rtx8000-2q,3574.0
+751,grid rtx8000-4q,3961.0
+752,grid rtx8000p-12a,4166.0
+753,grid rtx8000p-2q,3843.0
+754,grid rtx8000p-4q,5174.0
+755,grid t4-16q,5055.0
+756,grid t4-1q,3303.0
+757,grid t4-2b,2601.0
+758,grid t4-2q,3451.0
+759,grid t4-4q,3260.0
+760,grid t4-8q,5680.0
+761,grid v100-2q,3811.0
+762,grid v100-8q,16.0
+763,grid v100d-2q,4668.0
+764,grid v100d-8q,4156.0
+765,gt 430,223.0
+766,incredible hd,389.0
+767,incredible hd 3000,291.0
+768,incredible hd 4000,517.0
+769,incredible hd 4600,750.0
+770,intel - express chipset g41,57.0
+771,intel - express chipset q45/q43,58.0
+772,intel 2nd generation sandybridge hd,169.0
+773,intel 2nd generation sandybridge hd 3000,205.0
+774,intel 3rd generation ivybridge hd gt1,161.0
+775,intel 4th generation haswell hd,420.0
+776,intel 82845g controller,2.0
+777,intel 82845g/gl controller,3.0
+778,intel 82845g/gl/ge/pe/gv controller,3.0
+779,intel 82852/82855 gm/gme controller,1.0
+780,intel 82865g controller,5.0
+781,intel 82915g express,6.0
+782,intel 82915g/915gv/910gl,4.0
+783,intel 82915g/gv/910gl advanced v3.5,3.0
+784,intel 82915g/gv/910gl express,3.0
+785,intel 82945g express,11.0
+786,intel 82945g express-chipsatzfamilie,8.0
+787,intel 865 embedded controller,4.0
+788,"intel 915g,910g express",4.0
+789,intel 915g/915gv/910gl embedded controller functio,5.0
+790,intel 945g embedded chipset function 0,5.0
+791,intel 946gz embedded chipset,3.0
+792,intel 946gz express,3.0
+793,intel arc,5241.0
+794,intel arc 130v gpu,4425.0
+795,intel arc 140v gpu,5095.0
+796,intel arc a310,5492.0
+797,intel arc a310 lp,4676.0
+798,intel arc a370m,5115.0
+799,intel arc a380,6206.0
+800,intel arc a530m,6708.0
+801,intel arc a580,11649.0
+802,intel arc a730m,10488.0
+803,intel arc a750,11951.0
+804,intel arc a770,12982.0
+805,intel arc a770m,11578.0
+806,intel arc pro,5477.0
+807,intel arc pro a30m,5862.0
+808,intel arc pro a60,9301.0
+809,intel b43 express chipset,138.0
+810,intel coffee lake uhd,1158.0
+811,intel extreme controller,2.0
+812,intel g33/g31 express,46.0
+813,intel g35 express,2097.0
+814,intel g41 express chipset,126.0
+815,intel g41 express-chipsatz,57.0
+816,intel g45/g43 express chipset,122.0
+817,intel g45/g43/g41 express chipset,68.0
+818,intel g965 express,223.0
+819,intel gma 3150 express,3.0
+820,intel graphics,3150.0
+821,intel haswell hd - gt1,123.0
+822,intel haswell hd - gt2,139.0
+823,intel hd 2000,213.0
+824,intel hd 3000,258.0
+825,intel hd 4000,346.0
+826,intel hd 4400,522.0
+827,intel hd 4600,628.0
+828,intel hd 4600 manual-gen9_2015-134121,620.0
+829,intel hd 500,299.0
+830,intel hd 5000,585.0
+831,intel hd 505,360.0
+832,intel hd 510,622.0
+833,intel hd 515,633.0
+834,intel hd 520,867.0
+835,intel hd 5200,830.0
+836,intel hd 530,995.0
+837,intel hd 5300,400.0
+838,intel hd 5500,590.0
+839,intel hd 5600,2264.0
+840,intel hd 6000,874.0
+841,intel hd 610,687.0
+842,intel hd 615,709.0
+843,intel hd 630,1110.0
+844,intel hd family,462.0
+845,intel hd 620,926.0
+846,intel hd manual-15.28-1861,63.0
+847,intel hd manual-gen9_2015-133271,165.0
+848,intel hd modded,112.0
+849,intel hd p3000,285.0
+850,intel hd p4000,516.0
+851,intel hd p4600,605.0
+852,intel hd p4600/p4700,635.0
+853,intel hd p530,1161.0
+854,intel hd p630,1204.0
+855,intel infoshock hd,194.0
+856,intel iris 5100,747.0
+857,intel iris 540,1261.0
+858,intel iris 550,1427.0
+859,intel iris 6100,894.0
+860,intel iris 650,1433.0
+861,intel iris plus,1814.0
+862,intel iris plus 640,1350.0
+863,intel iris plus 645,1715.0
+864,intel iris plus 650,1576.0
+865,intel iris plus 655,1734.0
+866,intel iris pro 5200,1184.0
+867,intel iris pro 580,1988.0
+868,intel iris pro 6100,925.0
+869,intel iris pro graphics 6200,1471.0
+870,intel iris pro p580,2231.0
+871,intel iris pro p6300,1626.0
+872,intel iris xe,2682.0
+873,intel iris xe max,1972.0
+874,intel iris xe max 100,1927.0
+875,intel media accelerator,33.0
+876,intel media accelerator 3150,3.0
+877,intel media accelerator 500,3.0
+878,intel media accelerator 600,7.0
+879,intel media accelerator hd,109.0
+880,intel poison ivy,739.0
+881,intel q33 express,7.0
+882,intel q35 embedded,8.0
+883,intel q35 express,77.0
+884,intel q45/q43 express chipset,199.0
+885,intel q45/q43 express-chipsatz,57.0
+886,intel q965/q963 express,161.0
+887,intel skylake hd dt gt2,577.0
+888,intel uhd 630,615.0
+889,intel uhd 770,1017.0
+890,intel uhd 770#0x1c005d839205d7e9#,1759.0
+891,intel uhd graphics,1486.0
+892,intel uhd graphics 600,321.0
+893,intel uhd graphics 605,370.0
+894,intel uhd graphics 610,712.0
+895,intel uhd graphics 615,734.0
+896,intel uhd graphics 617,874.0
+897,intel uhd graphics 620,1045.0
+898,intel uhd graphics 630,1243.0
+899,intel uhd graphics 710,1078.0
+900,intel uhd graphics 730,1582.0
+901,intel uhd graphics 750,1726.0
+902,intel uhd graphics 770,1887.0
+903,intel uhd graphics p630,2120.0
+904,intel uhd graphics p750,1671.0
+905,intel us15 embedded media and controller,7.0
+906,ion,84.0
+907,ion le,98.0
+908,l4,11519.0
+909,l40-8q,19705.0
+910,l40s,14397.0
+911,lebo virtual usb monitor,1790.0
+912,m860g with mobility radeon 4100,76.0
+913,m880g with mobility radeon hd 4200,93.0
+914,m880g with mobility radeon hd 4225,72.0
+915,m880g with mobility radeon hd 4250,104.0
+916,master x3100 driver,10.0
+917,matrox c420 lp pcie x16,597.0
+918,matrox c680 pcie x16,1904.0
+919,matrox c900 pcie x16,1812.0
+920,matrox g200e wddm 1.2,59.0
+921,matrox g200e wddm 2.0,101.0
+922,matrox g200eh,41.0
+923,matrox g200eh wddm 1.2,52.0
+924,matrox g200eh wddm 2.0,46.0
+925,matrox g200er,37.0
+926,matrox g200er wddm 1.2,45.0
+927,matrox g200er wddm 2.0,68.0
+928,matrox g200ew,40.0
+929,matrox g200ew wddm 1.2,50.0
+930,matrox g200ew3 wddm 2.0,90.0
+931,matrox luma a310,3690.0
+932,matrox luma a310f,3873.0
+933,matrox luma a310fp,3093.0
+934,matrox luma a380p,5805.0
+935,matrox m9120 pcie x16,20.0
+936,matrox m9120 plus lp pcie x16,26.0
+937,matrox m9125 pcie x16,26.0
+938,matrox m9128 lp pcie x16,32.0
+939,matrox m9138 lp pcie x16,42.0
+940,matrox m9140 lp pcie x16,23.0
+941,matrox m9148 lp pcie x16,40.0
+942,matrox m9188 atx pcie x16,44.0
+943,matrox millennium p650 pcie 128,5.0
+944,matrox millennium p690 pcie x16,367.0
+945,matrox millennium p690 plus lp pcie x16,7.0
+946,matrox parhelia 128mb,3.0
+947,matrox parhelia 256mb,9.0
+948,matrox parhelia apve,6.0
+949,mct usb3.0 external device,520.0
+950,medion radeon 9800 xxl,72.0
+951,medion radeon x740xl,95.0
+952,mi pad 5 adreno 640 gpu,722.0
+953,microsoft basic display adapter ryzen 5 3550h,3537.0
+954,microsoft basic display adapter ryzen 5 5600g,302.0
+955,miracast display port driver v3,15910.0
+956,mirrorv3,1081.0
+957,mobile intel - famiglia express chipset 45,39.0
+958,mobile intel 4 express-chipsatzfamilie,45.0
+959,mobile intel 45 express,42.0
+960,mobile intel 45 express-chipsatzfamilie,117.0
+961,mobile intel 915gm/gms/910gml express,2.0
+962,mobile intel 945 express,2.0
+963,mobile intel 945gm express,6.0
+964,mobile intel 945gm/gu express,5.0
+965,mobile intel 965 express,47.0
+966,mobile intel 965 express - br-0907-0461 v1839,8.0
+967,mobile intel 965 express-chipsatzfamilie,24.0
+968,mobile intel hd,236.0
+969,mobile intel serie 4 express,45.0
+970,mobile intel965 express,18.0
+971,mobility firegl 7800,5.0
+972,mobility firegl t2,41.0
+973,mobility firegl t2/t2e,34.0
+974,mobility firegl v3200,62.0
+975,mobility firegl v5000,82.0
+976,mobility firegl v5200,45.0
+977,mobility firegl v5250,27.0
+978,mobility firegl v5725,219.0
+979,mobility igp 9000/9100,10.0
+980,mobility radeon 4100,81.0
+981,mobility radeon 7000 igp,6.0
+982,mobility radeon 7500,4.0
+983,mobility radeon 9000,3.0
+984,mobility radeon 9000 igp,8.0
+985,mobility radeon 9000/9100 igp,6.0
+986,mobility radeon 9100 igp,3.0
+987,mobility radeon 9200,3.0
+988,mobility radeon 9550,30.0
+989,mobility radeon 9600,36.0
+990,mobility radeon 9600 pro turbo,25.0
+991,mobility radeon 9600/9700,39.0
+992,mobility radeon 9700,27.0
+993,mobility radeon 9800,46.0
+994,mobility radeon hd 2300,51.0
+995,mobility radeon hd 2400,90.0
+996,mobility radeon hd 2400 xt,102.0
+997,mobility radeon hd 2600,168.0
+998,mobility radeon hd 2600 xt,192.0
+999,mobility radeon hd 3400 serisi,111.0
+1000,mobility radeon hd 3410,63.0
+1001,mobility radeon hd 3430,98.0
+1002,mobility radeon hd 3450,91.0
+1003,mobility radeon hd 3470,93.0
+1004,mobility radeon hd 3470 hybrid x2,94.0
+1005,mobility radeon hd 3650,140.0
+1006,mobility radeon hd 3670,232.0
+1007,mobility radeon hd 3850,366.0
+1008,mobility radeon hd 3870,548.0
+1009,mobility radeon hd 3870 x2,478.0
+1010,mobility radeon hd 4200,91.0
+1011,mobility radeon hd 4225,66.0
+1012,mobility radeon hd 4250,98.0
+1013,mobility radeon hd 4270,93.0
+1014,mobility radeon hd 4300 serisi,73.0
+1015,mobility radeon hd 4330,135.0
+1016,mobility radeon hd 4350,148.0
+1017,mobility radeon hd 4550,191.0
+1018,mobility radeon hd 4570,142.0
+1019,mobility radeon hd 4650,401.0
+1020,mobility radeon hd 4670,463.0
+1021,mobility radeon hd 4830,512.0
+1022,mobility radeon hd 4850,866.0
+1023,mobility radeon hd 4870,720.0
+1024,mobility radeon hd 5000,773.0
+1025,mobility radeon hd 5000 serisi,479.0
+1026,mobility radeon hd 5165,284.0
+1027,mobility radeon hd 530v,175.0
+1028,mobility radeon hd 540v,188.0
+1029,mobility radeon hd 5430,181.0
+1030,mobility radeon hd 5450,214.0
+1031,mobility radeon hd 545v,200.0
+1032,mobility radeon hd 5470,236.0
+1033,mobility radeon hd 550v,266.0
+1034,mobility radeon hd 5570,528.0
+1035,mobility radeon hd 560v,318.0
+1036,mobility radeon hd 5650,449.0
+1037,mobility radeon hd 565v,353.0
+1038,mobility radeon hd 5730,507.0
+1039,mobility radeon hd 5850,763.0
+1040,mobility radeon hd 5870,1084.0
+1041,mobility radeon hd serie 4200,97.0
+1042,mobility radeon x1300,40.0
+1043,mobility radeon x1350,40.0
+1044,mobility radeon x1400,43.0
+1045,mobility radeon x1450,33.0
+1046,mobility radeon x1600,92.0
+1047,mobility radeon x1700,105.0
+1048,mobility radeon x1800,130.0
+1049,mobility radeon x1900,135.0
+1050,mobility radeon x2300,48.0
+1051,mobility radeon x2300 hd,49.0
+1052,mobility radeon x2500,82.0
+1053,mobility radeon x300,34.0
+1054,mobility radeon x600,50.0
+1055,mobility radeon x600 se,49.0
+1056,mobility radeon x700,67.0
+1057,mobility radeon x700 xl,60.0
+1058,mobility radeon xpress 200,27.0
+1059,mobility radeon. hd 5470,215.0
+1060,mobility/radeon 9000,4.0
+1061,monster geforce gtx 675m,2637.0
+1062,mxgpu,1282.0
+1063,n16p-gx,1205.0
+1064,n18e-q1,2525.0
+1065,nforce 750a sli,83.0
+1066,nforce 760i sli,140.0
+1067,nforce 780a sli,92.0
+1068,nforce 980a/780a sli,82.0
+1069,nv44,15.0
+1070,nvidia a10,22064.0
+1071,nvidia a10-4q,3425.0
+1072,nvidia a10g,18773.0
+1073,nvidia a40,14665.0
+1074,nvidia a40-12q,3371.0
+1075,nvidia a40-4q,4230.0
+1076,nvidia a40-8q,4220.0
+1077,nvidia geforce3 ti200,6.0
+1078,nvidia titan x,13660.0
+1079,nvidia titan xp,18711.0
+1080,nvs 2100m,140.0
+1081,nvs 300,122.0
+1082,nvs 310,250.0
+1083,nvs 3100m,116.0
+1084,nvs 315,300.0
+1085,nvs 4200m,281.0
+1086,nvs 510,692.0
+1087,nvs 5100m,188.0
+1088,nvs 5200m,513.0
+1089,nvs 5400m,626.0
+1090,nvs 810,1179.0
+1091,opal xt/gl,1053.0
+1092,p104-100,3695.0
+1093,p106-090,2343.0
+1094,p106-100,6408.0
+1095,parsec virtual display adapter,5023.0
+1096,pci\ven_1002&dev_164e&subsys_d0001458&rev_c2 ryzen,1681.0
+1097,pci\ven_1002&dev_164e&subsys_d0001458&rev_c3 ryzen,1654.0
+1098,pci\ven_1002&dev_164e&subsys_d0001458&rev_c6 ryzen,1769.0
+1099,pci\ven_1002&dev_164e&subsys_d0001458&rev_c7 ryzen,1643.0
+1100,phdgd ivy 4,374.0
+1101,phdgd ivy 5,445.0
+1102,phdgd quantic c3,117.0
+1103,phdgd sapphire gr for mobile intel 965,26.0
+1104,phdgd solo 1.2.0 x86,11.0
+1105,phdgd solo 2 x64,20.0
+1106,q12u-1,5164.0
+1107,quadro 1000m,567.0
+1108,quadro 1100m,755.0
+1109,quadro 2000,946.0
+1110,quadro 2000 d,1239.0
+1111,quadro 2000d,976.0
+1112,quadro 2000m,778.0
+1113,quadro 2100m,1100.0
+1114,quadro 280 nvs pcie,6.0
+1115,quadro 3000m,995.0
+1116,quadro 400,148.0
+1117,quadro 4000,1478.0
+1118,quadro 4000m,1302.0
+1119,quadro 410,438.0
+1120,quadro 5000,1934.0
+1121,quadro 5000m,2060.0
+1122,quadro 500m,571.0
+1123,quadro 5010m,1772.0
+1124,quadro 600,534.0
+1125,quadro 6000,2685.0
+1126,quadro 7000,3505.0
+1127,quadro cx,947.0
+1128,quadro fx 1000,34.0
+1129,quadro fx 1100,36.0
+1130,quadro fx 1300,34.0
+1131,quadro fx 1400,124.0
+1132,quadro fx 1500,170.0
+1133,quadro fx 1500m,171.0
+1134,quadro fx 1600m,131.0
+1135,quadro fx 1700,181.0
+1136,quadro fx 1700m,173.0
+1137,quadro fx 1800,398.0
+1138,quadro fx 1800m,467.0
+1139,quadro fx 2000,18.0
+1140,quadro fx 2500m,218.0
+1141,quadro fx 2700,543.0
+1142,quadro fx 2700m,367.0
+1143,quadro fx 2800m,418.0
+1144,quadro fx 3000,69.0
+1145,quadro fx 3400/4400,104.0
+1146,quadro fx 3450,149.0
+1147,quadro fx 3450/4000 sdi,179.0
+1148,quadro fx 350,86.0
+1149,quadro fx 3500,260.0
+1150,quadro fx 3500m,306.0
+1151,quadro fx 350m,45.0
+1152,quadro fx 3600m,467.0
+1153,quadro fx 360m,87.0
+1154,quadro fx 370,84.0
+1155,quadro fx 370 low profile,103.0
+1156,quadro fx 370 lp,108.0
+1157,quadro fx 3700,378.0
+1158,quadro fx 3700m,456.0
+1159,quadro fx 370m,93.0
+1160,quadro fx 380,157.0
+1161,quadro fx 380 lp,123.0
+1162,quadro fx 3800,824.0
+1163,quadro fx 3800m,586.0
+1164,quadro fx 380m,121.0
+1165,quadro fx 4000,101.0
+1166,quadro fx 4500,227.0
+1167,quadro fx 4500 x2,236.0
+1168,quadro fx 4600,431.0
+1169,quadro fx 4700 x2,676.0
+1170,quadro fx 4800,979.0
+1171,quadro fx 500/600 pci,14.0
+1172,quadro fx 500/fx 600,8.0
+1173,quadro fx 540,81.0
+1174,quadro fx 550,64.0
+1175,quadro fx 5500,242.0
+1176,quadro fx 560,114.0
+1177,quadro fx 5600,525.0
+1178,quadro fx 570,232.0
+1179,quadro fx 570m,104.0
+1180,quadro fx 580,161.0
+1181,quadro fx 5800,1222.0
+1182,quadro fx 770m,221.0
+1183,quadro fx 880m,224.0
+1184,quadro fx go1400,102.0
+1185,quadro gp100,16374.0
+1186,quadro gv100,19824.0
+1187,quadro k1000m,779.0
+1188,quadro k1100m,1091.0
+1189,quadro k1200,2941.0
+1190,quadro k2000,1580.0
+1191,quadro k2000d,1586.0
+1192,quadro k2000m,1013.0
+1193,quadro k2100m,1357.0
+1194,quadro k2200,3554.0
+1195,quadro k2200m,3469.0
+1196,quadro k3000m,1639.0
+1197,quadro k3100m,2264.0
+1198,quadro k4000,2718.0
+1199,quadro k4000m,1903.0
+1200,quadro k4100m,2756.0
+1201,quadro k420,744.0
+1202,quadro k4200,4326.0
+1203,quadro k5000,3994.0
+1204,quadro k5000m,2779.0
+1205,quadro k500m,480.0
+1206,quadro k5100m,3163.0
+1207,quadro k510m,641.0
+1208,quadro k5200,6092.0
+1209,quadro k600,737.0
+1210,quadro k6000,8068.0
+1211,quadro k610m,718.0
+1212,quadro k620,2232.0
+1213,quadro k620m,1165.0
+1214,quadro m1000m,2851.0
+1215,quadro m1200,3238.0
+1216,quadro m2000,3992.0
+1217,quadro m2000m,3456.0
+1218,quadro m2200,4262.0
+1219,quadro m3000m,5597.0
+1220,quadro m4000,6672.0
+1221,quadro m4000m,6119.0
+1222,quadro m5000,9410.0
+1223,quadro m5000m,7020.0
+1224,quadro m500m,1164.0
+1225,quadro m520,1873.0
+1226,quadro m5500,7915.0
+1227,quadro m6000,11749.0
+1228,quadro m6000 24gb,11883.0
+1229,quadro m600m,2151.0
+1230,quadro m620,2795.0
+1231,quadro nvs 110m,48.0
+1232,quadro nvs 120m,47.0
+1233,quadro nvs 130m,97.0
+1234,quadro nvs 135m,50.0
+1235,quadro nvs 140m,79.0
+1236,quadro nvs 150m,70.0
+1237,quadro nvs 160m,136.0
+1238,quadro nvs 210s,24.0
+1239,quadro nvs 210s / geforce 6150le,21.0
+1240,quadro nvs 280 pci,8.0
+1241,quadro nvs 280 sd,2.0
+1242,quadro nvs 285,42.0
+1243,quadro nvs 285 128mb,38.0
+1244,quadro nvs 290,228.0
+1245,quadro nvs 295,94.0
+1246,quadro nvs 320m,208.0
+1247,quadro nvs 420,103.0
+1248,quadro nvs 440,38.0
+1249,quadro nvs 450,67.0
+1250,quadro nvs 510m,238.0
+1251,quadro nvs 55/280 pci,6.0
+1252,quadro p1000,4461.0
+1253,quadro p2000,6930.0
+1254,quadro p2000 with max-q design,5285.0
+1255,quadro p2200,9325.0
+1256,quadro p3000,6520.0
+1257,quadro p3200,8776.0
+1258,quadro p3200 with max-q design,9409.0
+1259,quadro p400,1644.0
+1260,quadro p4000,11624.0
+1261,quadro p4000 with max-q design,9083.0
+1262,quadro p4200,10440.0
+1263,quadro p4200 with max-q design,11447.0
+1264,quadro p500,1631.0
+1265,quadro p5000,12541.0
+1266,quadro p520,2098.0
+1267,quadro p5200,12239.0
+1268,quadro p5200 with max-q design,12531.0
+1269,quadro p600,3307.0
+1270,quadro p6000,15308.0
+1271,quadro p620,3638.0
+1272,quadro rtx 3000,11117.0
+1273,quadro rtx 3000 with max-q design,8255.0
+1274,quadro rtx 4000,15368.0
+1275,quadro rtx 4000 (mobile),12327.0
+1276,quadro rtx 4000 with max-q design,12366.0
+1277,quadro rtx 5000,15955.0
+1278,quadro rtx 5000 (mobile),14832.0
+1279,quadro rtx 5000 with max-q design,13491.0
+1280,quadro rtx 6000,18733.0
+1281,quadro rtx 8000,19278.0
+1282,quadro t1000,6452.0
+1283,quadro t1000 with max-q design,6721.0
+1284,quadro t2000,7175.0
+1285,quadro t2000 with max-q design,6907.0
+1286,quadro2 mxr/ex,5.0
+1287,quadro2 pro,1.0
+1288,quadro4 380 xgl,7.0
+1289,quadro4 900 xgl,5.0
+1290,quadro4 980 xgl,5.0
+1291,qualcomm adreno 540 gpu,119.0
+1292,qualcomm adreno 618 gpu,127.0
+1293,qualcomm adreno 630 gpu,283.0
+1294,qualcomm adreno 675 gpu,540.0
+1295,qualcomm adreno 680 gpu,802.0
+1296,qualcomm adreno 685 gpu,979.0
+1297,qualcomm adreno 690 gpu,1028.0
+1298,qualcomm adreno 7c gen 3 gpu,749.0
+1299,qualcomm adreno 7c+ gen 3,594.0
+1300,qualcomm adreno 8cx gen 3,1953.0
+1301,qualcomm adreno 8cx gen 3 gpu,1864.0
+1302,qualcomm adreno x1-45 gpu,1490.0
+1303,qualcomm adreno x1-85 gpu,2685.0
+1304,qxl kmdod,19.0
+1305,radeon 2100,60.0
+1306,radeon 3000,98.0
+1307,radeon 3015e,372.0
+1308,radeon 3020e,465.0
+1309,radeon 3100,74.0
+1310,radeon 520,861.0
+1311,radeon 530,1021.0
+1312,radeon 535,1077.0
+1313,radeon 535dx,774.0
+1314,radeon 540,1383.0
+1315,radeon 540x,1438.0
+1316,radeon 550,2027.0
+1317,radeon 550x,1433.0
+1318,radeon 610m,1099.0
+1319,radeon 610m ryzen 9 7845hx,21623.0
+1320,radeon 610m ryzen 9 7945hx,1565.0
+1321,radeon 620,895.0
+1322,radeon 625,1094.0
+1323,radeon 630,1435.0
+1324,radeon 6600m,524.0
+1325,radeon 660m ryzen 5 6600h,6286.0
+1326,radeon 660m ryzen 5 7535hs,3706.0
+1327,radeon 6750m,911.0
+1328,radeon 680m ryzen 7 7735hs,6167.0
+1329,radeon 7000 / radeon ve,3.0
+1330,radeon 7000 / radeon ve family,4.0
+1331,radeon 7200,3.0
+1332,radeon 740m,3188.0
+1333,radeon 7500,3.0
+1334,radeon 7500 family,5.0
+1335,radeon 760m,5810.0
+1336,radeon 780m,7052.0
+1337,radeon 8500 family,7.0
+1338,radeon 880m,7624.0
+1339,radeon 890m,8106.0
+1340,radeon 9000,5.0
+1341,radeon 9000 family,4.0
+1342,radeon 9100 family,6.0
+1343,radeon 9100 igp,5.0
+1344,radeon 9200,4.0
+1345,radeon 9200 le family,3.0
+1346,radeon 9200 pro family,3.0
+1347,radeon 9200 se,3.0
+1348,radeon 9250,3.0
+1349,radeon 9500,36.0
+1350,radeon 9500 pro / 9700,42.0
+1351,radeon 9550,35.0
+1352,radeon 9550 / x1050,29.0
+1353,radeon 9600 family,25.0
+1354,radeon 9600 pro,43.0
+1355,radeon 9600 pro family,27.0
+1356,radeon 9600 tx family,18.0
+1357,radeon 9600 xt,35.0
+1358,radeon 9600se,27.0
+1359,radeon 9700 pro,54.0
+1360,radeon 9700 tx w/tv-out,44.0
+1361,radeon 9800,58.0
+1362,radeon 9800 pro,59.0
+1363,radeon 9800 se,24.0
+1364,radeon 9800 xt,57.0
+1365,radeon a9800xt,23.0
+1366,radeon athlon gold 3150u,773.0
+1367,radeon athlon gold pro 4150ge,1574.0
+1368,radeon athlon pro 3045b,555.0
+1369,radeon athlon silver 3050u,690.0
+1370,radeon e2400,52.0
+1371,radeon e4690,405.0
+1372,radeon e6460,324.0
+1373,radeon e6465,231.0
+1374,radeon e6760,877.0
+1375,radeon e8860,1686.0
+1376,radeon e8870pcie,3368.0
+1377,radeon eng sample: 100-000000085-40_35/24_y,1441.0
+1378,radeon eng sample: 100-000000146-40_42/35_y,2464.0
+1379,radeon eng sample: 100-000000261-50_y,3490.0
+1380,radeon eng sample: 100-000000262-30_y,2416.0
+1381,radeon eng sample: 100-000000263-30_y,1684.0
+1382,radeon eng sample: 100-000000285-40_y,2267.0
+1383,radeon eng sample: 100-000000287-40_y,1862.0
+1384,radeon eng sample: 100-000000300-30_y,2717.0
+1385,radeon eng sample: 100-000000300-40_y,2670.0
+1386,radeon eng sample: 100-000000371-40_42/18_y,2591.0
+1387,radeon eng sample: 100-000000534-40_y,5380.0
+1388,radeon eng sample: 100-000000545-40_y,5026.0
+1389,radeon eng sample: 100-000000550-40_y,5224.0
+1390,radeon eng sample: 100-000000560-40_y,4816.0
+1391,radeon eng sample: 100-000000561-40_y,4042.0
+1392,radeon eng sample: 100-000000562-40_y,3841.0
+1393,radeon epyc 4124p 4-core,1615.0
+1394,radeon epyc 4244p 6-core,1424.0
+1395,radeon epyc 4344p 8-core,1635.0
+1396,radeon epyc 4364p 8-core,1611.0
+1397,radeon epyc 4464p 12-core,1614.0
+1398,radeon epyc 4484px 12-core,1620.0
+1399,radeon epyc 4564p 16-core,1619.0
+1400,radeon epyc 4584px 16-core,1662.0
+1401,radeon hd 2350,77.0
+1402,radeon hd 2400,121.0
+1403,radeon hd 2400 pci,14.0
+1404,radeon hd 2400 pro,114.0
+1405,radeon hd 2400 xt,119.0
+1406,radeon hd 2600 pro,211.0
+1407,radeon hd 2600 pro agp,110.0
+1408,radeon hd 2600 xt,283.0
+1409,radeon hd 2900 gt,292.0
+1410,radeon hd 2900 pro,628.0
+1411,radeon hd 2900 xt,660.0
+1412,radeon hd 3000,96.0
+1413,radeon hd 3200,82.0
+1414,radeon hd 3300,127.0
+1415,radeon hd 3450,155.0
+1416,radeon hd 3470,119.0
+1417,radeon hd 3650 agp,150.0
+1418,radeon hd 3670,161.0
+1419,radeon hd 3850,393.0
+1420,radeon hd 3850 agp,432.0
+1421,radeon hd 3850 x2,822.0
+1422,radeon hd 3870,555.0
+1423,radeon hd 3870 x2,709.0
+1424,radeon hd 4200,112.0
+1425,radeon hd 4250,123.0
+1426,radeon hd 4270,110.0
+1427,radeon hd 4290,141.0
+1428,radeon hd 4300/4500 serisi,156.0
+1429,radeon hd 4330,115.0
+1430,radeon hd 4350,135.0
+1431,radeon hd 4550,236.0
+1432,radeon hd 4650,238.0
+1433,radeon hd 4650 agp,208.0
+1434,radeon hd 4670,380.0
+1435,radeon hd 4770,910.0
+1436,radeon hd 4810,769.0
+1437,radeon hd 4830,836.0
+1438,radeon hd 4850,933.0
+1439,radeon hd 4850 x2,1132.0
+1440,radeon hd 4870,1376.0
+1441,radeon hd 4870 x2,1309.0
+1442,radeon hd 4890,1508.0
+1443,radeon hd 5450,136.0
+1444,radeon hd 5470,268.0
+1445,radeon hd 5550,377.0
+1446,radeon hd 5570,476.0
+1447,radeon hd 5600/5700,634.0
+1448,radeon hd 5670,804.0
+1449,radeon hd 5750,1164.0
+1450,radeon hd 5770,1341.0
+1451,radeon hd 5830,1733.0
+1452,radeon hd 5850,1970.0
+1453,radeon hd 5870,2220.0
+1454,radeon hd 5970,2282.0
+1455,radeon hd 6230,179.0
+1456,radeon hd 6250,94.0
+1457,radeon hd 6290,105.0
+1458,radeon hd 6290m,140.0
+1459,radeon hd 6300m,144.0
+1460,radeon hd 6310,122.0
+1461,radeon hd 6320,147.0
+1462,radeon hd 6320 graphic,216.0
+1463,radeon hd 6320m,198.0
+1464,radeon hd 6350,141.0
+1465,radeon hd 6370d,255.0
+1466,radeon hd 6370m,276.0
+1467,radeon hd 6380g,201.0
+1468,radeon hd 6410d,237.0
+1469,radeon hd 6430m,193.0
+1470,radeon hd 6450,197.0
+1471,radeon hd 6450 + 8470d dual,763.0
+1472,radeon hd 6450a,260.0
+1473,radeon hd 6470m,228.0
+1474,radeon hd 6480g,257.0
+1475,radeon hd 6480m,353.0
+1476,radeon hd 6490m,378.0
+1477,radeon hd 6520g,300.0
+1478,radeon hd 6530d,337.0
+1479,radeon hd 6550a,708.0
+1480,radeon hd 6550d,401.0
+1481,radeon hd 6570,550.0
+1482,radeon hd 6610m,565.0
+1483,radeon hd 6620g,341.0
+1484,radeon hd 6630m,685.0
+1485,radeon hd 6650a,836.0
+1486,radeon hd 6650m,753.0
+1487,radeon hd 6670,726.0
+1488,radeon hd 6670 + 6670 dual,647.0
+1489,radeon hd 6670 + 7660d dual,1492.0
+1490,radeon hd 6670/7670,946.0
+1491,radeon hd 6700m,1017.0
+1492,radeon hd 6750,1043.0
+1493,radeon hd 6750m,937.0
+1494,radeon hd 6770,1251.0
+1495,radeon hd 6770m,964.0
+1496,radeon hd 6790,1619.0
+1497,radeon hd 6800m,799.0
+1498,radeon hd 6850,1966.0
+1499,radeon hd 6850 x2,2534.0
+1500,radeon hd 6870,2216.0
+1501,radeon hd 6900m,1703.0
+1502,radeon hd 6950,2615.0
+1503,radeon hd 6970,2832.0
+1504,radeon hd 6970m,2270.0
+1505,radeon hd 6990,3013.0
+1506,radeon hd 7290,112.0
+1507,radeon hd 7290m,123.0
+1508,radeon hd 7310,128.0
+1509,radeon hd 7310 - carte graphique,174.0
+1510,radeon hd 7310g,181.0
+1511,radeon hd 7310m,166.0
+1512,radeon hd 7340,153.0
+1513,radeon hd 7340g,196.0
+1514,radeon hd 7340m,221.0
+1515,radeon hd 7350,165.0
+1516,radeon hd 7400g,267.0
+1517,radeon hd 7420g,309.0
+1518,radeon hd 7450,225.0
+1519,radeon hd 7450a,288.0
+1520,radeon hd 7450m,330.0
+1521,radeon hd 7470,289.0
+1522,radeon hd 7470m,408.0
+1523,radeon hd 7480d,279.0
+1524,radeon hd 7500g,308.0
+1525,radeon hd 7500g + 7500m/7600m dual,617.0
+1526,radeon hd 7500g + 7550m dual,497.0
+1527,radeon hd 7500g + hd 7500m/7600m dual,356.0
+1528,radeon hd 7520g,316.0
+1529,radeon hd 7520g + 7400m dual,487.0
+1530,radeon hd 7520g + 7470m dual,543.0
+1531,radeon hd 7520g + 7500/7600 dual,582.0
+1532,radeon hd 7520g + 7600m dual,591.0
+1533,radeon hd 7520g + 7610m dual,588.0
+1534,radeon hd 7520g + 7650m dual,453.0
+1535,radeon hd 7520g + 7670m dual,523.0
+1536,radeon hd 7520g + 7700m dual,1061.0
+1537,radeon hd 7520g + 8600/8700m dual,311.0
+1538,radeon hd 7520g + 8750m dual,377.0
+1539,radeon hd 7520g + hd 7400m dual,545.0
+1540,radeon hd 7520g + hd 7500/7600 dual,832.0
+1541,radeon hd 7520g + hd 7600m dual,447.0
+1542,radeon hd 7520g + hd 7670m dual,495.0
+1543,radeon hd 7520g + hd 7700m dual,575.0
+1544,radeon hd 7520g + hd 8600/8700m dual,624.0
+1545,radeon hd 7520g + hd 8750m dual,651.0
+1546,radeon hd 7520g n hd 7520g + hd 7500/7600 7500/760,575.0
+1547,radeon hd 7520g n hd 7520g + hd 7600m n hd 7600m d,365.0
+1548,radeon hd 7540d,332.0
+1549,radeon hd 7540d + 6570 dual,720.0
+1550,radeon hd 7540d + 7500 dual,822.0
+1551,radeon hd 7540d + hd 6450 dual,643.0
+1552,radeon hd 7550m,465.0
+1553,radeon hd 7550m/7650m,729.0
+1554,radeon hd 7560d,458.0
+1555,radeon hd 7560d + 6450 dual,569.0
+1556,radeon hd 7560d + 6570 dual,833.0
+1557,radeon hd 7560d + 6670 dual,1131.0
+1558,radeon hd 7560d + 7560d dual,983.0
+1559,radeon hd 7560d + 7570 dual,985.0
+1560,radeon hd 7560d + 7670 dual,1426.0
+1561,radeon hd 7560d + 7700 dual,1919.0
+1562,radeon hd 7560d + hd 6570 dual,1237.0
+1563,radeon hd 7560d + hd 6670 dual,1555.0
+1564,radeon hd 7560d + hd 7000 dual,534.0
+1565,radeon hd 7560d + hd 7600 dual,1258.0
+1566,radeon hd 7560d + hd 7670 dual,1380.0
+1567,radeon hd 7560d + hd 7700 dual,1347.0
+1568,radeon hd 7560d + hd 8570 dual,936.0
+1569,radeon hd 7560d + r5 235 dual,563.0
+1570,radeon hd 7570,612.0
+1571,radeon hd 7570m,427.0
+1572,radeon hd 7570m/hd 7670m,699.0
+1573,radeon hd 7580d,351.0
+1574,radeon hd 7600g,327.0
+1575,radeon hd 7600g + 6400m dual,377.0
+1576,radeon hd 7600g + 7450m dual,390.0
+1577,radeon hd 7600g + 7500m/7600m dual,406.0
+1578,radeon hd 7600g + 7550m dual,423.0
+1579,radeon hd 7600g + 8500m/8700m dual,334.0
+1580,radeon hd 7600g + hd 7400m dual,329.0
+1581,radeon hd 7600g + hd 7500m/7600m dual,477.0
+1582,radeon hd 7600g + hd 7550m dual,509.0
+1583,radeon hd 7600g + hd 8670m dual,544.0
+1584,radeon hd 7600g + hd dual,435.0
+1585,radeon hd 7600g n hd 7600g + hd on hd dual,526.0
+1586,radeon hd 7600m + 7600m dual,773.0
+1587,radeon hd 7610m,632.0
+1588,radeon hd 7620g,364.0
+1589,radeon hd 7620g + 8600m dual,509.0
+1590,radeon hd 7620g + 8670m dual,577.0
+1591,radeon hd 7620g + hd 8600m dual,443.0
+1592,radeon hd 7620g + hd 8670m dual,507.0
+1593,radeon hd 7620g n hd 7620g + hd 8600m n hd 8600m d,452.0
+1594,radeon hd 7640g,459.0
+1595,radeon hd 7640g + 6400m dual,527.0
+1596,radeon hd 7640g + 7400m dual,637.0
+1597,radeon hd 7640g + 7450m dual,754.0
+1598,radeon hd 7640g + 7470m dual,595.0
+1599,radeon hd 7640g + 7500/7600 dual,627.0
+1600,radeon hd 7640g + 7500m/7600m dual,776.0
+1601,radeon hd 7640g + 7600m dual,706.0
+1602,radeon hd 7640g + 7610m dual,510.0
+1603,radeon hd 7640g + 7650m dual,747.0
+1604,radeon hd 7640g + 7670m dual,645.0
+1605,radeon hd 7640g + 7690m dual,946.0
+1606,radeon hd 7640g + 7700m dual,691.0
+1607,radeon hd 7640g + 8500m dual,586.0
+1608,radeon hd 7640g + 8570m dual,558.0
+1609,radeon hd 7640g + 8600/8700m dual,689.0
+1610,radeon hd 7640g + 8600m dual,250.0
+1611,radeon hd 7640g + 8670m dual,558.0
+1612,radeon hd 7640g + 8750m dual,655.0
+1613,radeon hd 7640g + hd 7400m dual,621.0
+1614,radeon hd 7640g + hd 7500/7600 dual,424.0
+1615,radeon hd 7640g + hd 7600m dual,704.0
+1616,radeon hd 7640g + hd 7600m n hd 7600m dual,407.0
+1617,radeon hd 7640g + hd 7670m dual,519.0
+1618,radeon hd 7640g + hd 7700m dual,589.0
+1619,radeon hd 7640g + hd 7700m n hd 7700m dual,631.0
+1620,radeon hd 7640g + hd 8500m dual,607.0
+1621,radeon hd 7640g + hd 8500m n hd 8500m dual,666.0
+1622,radeon hd 7640g + hd 8570m dual,475.0
+1623,radeon hd 7640g + hd 8600/8700m dual,587.0
+1624,radeon hd 7640g + hd 8670m dual,677.0
+1625,radeon hd 7640g + hd 8750m dual,997.0
+1626,radeon hd 7640g + r5 m200 dual,559.0
+1627,radeon hd 7640g + r5 m230 dual,239.0
+1628,radeon hd 7640g n hd 7640g + hd 7600m n hd 7600m d,824.0
+1629,radeon hd 7640g n hd 7640g + hd 7670m dual,680.0
+1630,radeon hd 7640g n hd 7640g + hd 8570m dual,423.0
+1631,radeon hd 7650a,569.0
+1632,radeon hd 7650m,437.0
+1633,radeon hd 7660d,503.0
+1634,radeon hd 7660d + 6570 dual,1100.0
+1635,radeon hd 7660d + 6670 dual,1238.0
+1636,radeon hd 7660d + 7470 dual,466.0
+1637,radeon hd 7660d + 7500 dual,1121.0
+1638,radeon hd 7660d + 7540d dual,1204.0
+1639,radeon hd 7660d + 7670 dual,1062.0
+1640,radeon hd 7660d + hd 6670 dual,1485.0
+1641,radeon hd 7660d + hd 7000 dual,634.0
+1642,radeon hd 7660d + hd 7400 dual,340.0
+1643,radeon hd 7660d + hd 7700 dual,1958.0
+1644,radeon hd 7660d + r5 235 dual,524.0
+1645,radeon hd 7660d + r7 240 dual,942.0
+1646,radeon hd 7660g,476.0
+1647,radeon hd 7660g + 7400m dual,588.0
+1648,radeon hd 7660g + 7470m dual,631.0
+1649,radeon hd 7660g + 7600m dual,832.0
+1650,radeon hd 7660g + 7610m dual,746.0
+1651,radeon hd 7660g + 7670m dual,743.0
+1652,radeon hd 7660g + 7700m dual,757.0
+1653,radeon hd 7660g + 7730m dual,931.0
+1654,radeon hd 7660g + 8600m dual,446.0
+1655,radeon hd 7660g + 8670m dual,588.0
+1656,radeon hd 7660g + hd 7500/7600 7500/7600 dual,1002.0
+1657,radeon hd 7660g + hd 7500/7600 dual,760.0
+1658,radeon hd 7660g + hd 7500m/7600m dual,999.0
+1659,radeon hd 7660g + hd 7600m dual,568.0
+1660,radeon hd 7660g + hd 7600m n hd 7600m dual,460.0
+1661,radeon hd 7660g + hd 7670m dual,707.0
+1662,radeon hd 7660g + hd 7700m dual,777.0
+1663,radeon hd 7660g + hd 7730m dual,882.0
+1664,radeon hd 7660g + hd 8500m dual,758.0
+1665,radeon hd 7660g + hd 8600/8700m dual,747.0
+1666,radeon hd 7660g + hd 8600m dual,364.0
+1667,radeon hd 7660g + hd 8670m dual,711.0
+1668,radeon hd 7660g n hd 7660g + hd 7600m n hd 7600m d,723.0
+1669,radeon hd 7660g n hd 7660g + hd 7670m dual,705.0
+1670,radeon hd 7660g n hd 7660g + hd 7700m n hd 7700m d,967.0
+1671,radeon hd 7670,805.0
+1672,radeon hd 7670a,1050.0
+1673,radeon hd 7670m,473.0
+1674,radeon hd 7670m + 7670m dual,738.0
+1675,radeon hd 7690m,909.0
+1676,radeon hd 7690m xt,1009.0
+1677,radeon hd 7700-serie,1899.0
+1678,radeon hd 7730,1208.0
+1679,radeon hd 7730m,775.0
+1680,radeon hd 7750,1700.0
+1681,radeon hd 7750m,1191.0
+1682,radeon hd 7770,2173.0
+1683,radeon hd 7790,3090.0
+1684,radeon hd 7800-serie,4029.0
+1685,radeon hd 7850,3865.0
+1686,radeon hd 7850m,1373.0
+1687,radeon hd 7870,4636.0
+1688,radeon hd 7870 xt,4470.0
+1689,radeon hd 7870m,1507.0
+1690,radeon hd 7950 / r9 280,4765.0
+1691,radeon hd 7970 / r9 280x,5248.0
+1692,radeon hd 7970m,3559.0
+1693,radeon hd 7990,5566.0
+1694,radeon hd 8180,139.0
+1695,radeon hd 8210,189.0
+1696,radeon hd 8210e,194.0
+1697,radeon hd 8240,246.0
+1698,radeon hd 8250,212.0
+1699,radeon hd 8280,261.0
+1700,radeon hd 8280e,256.0
+1701,radeon hd 8280g,270.0
+1702,radeon hd 8310e,341.0
+1703,radeon hd 8330,265.0
+1704,radeon hd 8330e,259.0
+1705,radeon hd 8350,163.0
+1706,radeon hd 8350g,304.0
+1707,radeon hd 8370d,312.0
+1708,radeon hd 8400,265.0
+1709,radeon hd 8400e,276.0
+1710,radeon hd 8410g,435.0
+1711,radeon hd 8450g,342.0
+1712,radeon hd 8450g + 8600/8700m dual,1070.0
+1713,radeon hd 8450g + 8600m dual,545.0
+1714,radeon hd 8450g + 8670m dual,475.0
+1715,radeon hd 8450g + 8750m dual,637.0
+1716,radeon hd 8450g + hd 8600m dual,452.0
+1717,radeon hd 8450g + hd 8670m dual,478.0
+1718,radeon hd 8450g + hd 8750m dual,504.0
+1719,radeon hd 8450g + r5 m230 dual,578.0
+1720,radeon hd 8470,251.0
+1721,radeon hd 8470d,373.0
+1722,radeon hd 8470d + 6450 dual,717.0
+1723,radeon hd 8470d + 6570 dual,838.0
+1724,radeon hd 8470d + hd 6450 dual,863.0
+1725,radeon hd 8470d + hd 6670 dual,1436.0
+1726,radeon hd 8470d + hd 7500 dual,1545.0
+1727,radeon hd 8490,263.0
+1728,radeon hd 8500m,421.0
+1729,radeon hd 8500m/8700m,853.0
+1730,radeon hd 8510g,358.0
+1731,radeon hd 8510g + 8500m dual,596.0
+1732,radeon hd 8510g + hd 8500m dual,630.0
+1733,radeon hd 8550d,567.0
+1734,radeon hd 8550g,412.0
+1735,radeon hd 8550g + 7600m dual,901.0
+1736,radeon hd 8550g + 8500m dual,603.0
+1737,radeon hd 8550g + 8570m dual,533.0
+1738,radeon hd 8550g + 8600/8700m dual,803.0
+1739,radeon hd 8550g + 8600m dual,618.0
+1740,radeon hd 8550g + 8670m dual,579.0
+1741,radeon hd 8550g + 8690m dual,664.0
+1742,radeon hd 8550g + 8750m dual,796.0
+1743,radeon hd 8550g + hd 7600m dual,548.0
+1744,radeon hd 8550g + hd 8500m dual,559.0
+1745,radeon hd 8550g + hd 8570m dual,529.0
+1746,radeon hd 8550g + hd 8600/8700m dual,655.0
+1747,radeon hd 8550g + hd 8600m dual,594.0
+1748,radeon hd 8550g + hd 8670m dual,546.0
+1749,radeon hd 8550g + hd 8750m dual,819.0
+1750,radeon hd 8550g + r5 m200 dual,619.0
+1751,radeon hd 8550g + r5 m230 dual,488.0
+1752,radeon hd 8550g n hd 8550g + hd 8600m n hd 8600m d,612.0
+1753,radeon hd 8570,942.0
+1754,radeon hd 8570 + 8670d dual,620.0
+1755,radeon hd 8570 + hd 7660d dual,949.0
+1756,radeon hd 8570d,431.0
+1757,radeon hd 8570d + 6570 dual,1239.0
+1758,radeon hd 8570d + 6670 dual,1040.0
+1759,radeon hd 8570d + hd 6570 dual,868.0
+1760,radeon hd 8570d + hd 6670 dual,1261.0
+1761,radeon hd 8570d + hd 7000 dual,753.0
+1762,radeon hd 8570d + hd 7700 dual,1835.0
+1763,radeon hd 8570d + hd 8470 dual,338.0
+1764,radeon hd 8570d + hd 8570 dual,1033.0
+1765,radeon hd 8570d + hd8490 dual,374.0
+1766,radeon hd 8570d + r5 235 dual,471.0
+1767,radeon hd 8570d + r7 200 dual,999.0
+1768,radeon hd 8570d + r7 240 dual,964.0
+1769,radeon hd 8570m,441.0
+1770,radeon hd 8600/8700m,1030.0
+1771,radeon hd 8610g,416.0
+1772,radeon hd 8610g + 8500m dual,610.0
+1773,radeon hd 8610g + 8600m dual,589.0
+1774,radeon hd 8610g + 8670m dual,600.0
+1775,radeon hd 8610g + hd 8500m dual,646.0
+1776,radeon hd 8610g + hd 8600m dual,481.0
+1777,radeon hd 8610g + hd 8670m dual,578.0
+1778,radeon hd 8610g + r5 m200 dual,676.0
+1779,radeon hd 8650d,396.0
+1780,radeon hd 8650g,524.0
+1781,radeon hd 8650g + 7600m dual,742.0
+1782,radeon hd 8650g + 7670m dual,884.0
+1783,radeon hd 8650g + 7700m dual,1126.0
+1784,radeon hd 8650g + 8500m dual,627.0
+1785,radeon hd 8650g + 8570m dual,654.0
+1786,radeon hd 8650g + 8600/8700m dual,832.0
+1787,radeon hd 8650g + 8600m dual,613.0
+1788,radeon hd 8650g + 8670m dual,635.0
+1789,radeon hd 8650g + 8750m dual,787.0
+1790,radeon hd 8650g + hd 7600m dual,820.0
+1791,radeon hd 8650g + hd 7670m dual,634.0
+1792,radeon hd 8650g + hd 8570m dual,716.0
+1793,radeon hd 8650g + hd 8600/8700m dual,764.0
+1794,radeon hd 8650g + hd 8600m dual,606.0
+1795,radeon hd 8650g + hd 8600m n hd 8600m dual,758.0
+1796,radeon hd 8650g + hd 8670m dual,585.0
+1797,radeon hd 8650g + hd 8750m dual,652.0
+1798,radeon hd 8650g + hd 8790m dual,800.0
+1799,radeon hd 8650g + r5 m200 dual,723.0
+1800,radeon hd 8650g + r5 m230 dual,686.0
+1801,radeon hd 8650g n hd 8650g + hd 8570m dual,773.0
+1802,radeon hd 8650g n hd 8650g + hd 8600/8700m dual,796.0
+1803,radeon hd 8650g n hd 8650g + hd 8600m n hd 8600m d,680.0
+1804,radeon hd 8670d,534.0
+1805,radeon hd 8670d + 6670 dual,1361.0
+1806,radeon hd 8670d + 7000 dual,812.0
+1807,radeon hd 8670d + 7700 dual,1789.0
+1808,radeon hd 8670d + 8570 dual,974.0
+1809,radeon hd 8670d + hd 6670 dual,1222.0
+1810,radeon hd 8670d + hd 7000 dual,719.0
+1811,radeon hd 8670d + hd 7600 dual,1318.0
+1812,radeon hd 8670d + hd 7700 dual,1892.0
+1813,radeon hd 8670d + r5 235 dual,837.0
+1814,radeon hd 8670d + r5 330 dual,746.0
+1815,radeon hd 8670d + r7 200 dual,950.0
+1816,radeon hd 8670d + r7 240 dual,1020.0
+1817,radeon hd 8670d n hd 8670d + hd 8670d dual,489.0
+1818,radeon hd 8670m,520.0
+1819,radeon hd 8690a,502.0
+1820,radeon hd 8690m,984.0
+1821,radeon hd 8730m,781.0
+1822,radeon hd 8750m,1004.0
+1823,radeon hd 8790m,1306.0
+1824,radeon hd 8790m / r9 m290x,1211.0
+1825,radeon hd 8850m,973.0
+1826,radeon hd 8850m / r9 m265x,1140.0
+1827,radeon hd 8870m,1638.0
+1828,radeon hd 8870m / r9 m270x / m370x,1800.0
+1829,radeon hd 8950,2785.0
+1830,radeon hd 8970m,3876.0
+1831,radeon hd 8990,5214.0
+1832,radeon hd hd7850m,1652.0
+1833,radeon hd4650,240.0
+1834,radeon hd4670,366.0
+1835,radeon hd6370d,320.0
+1836,radeon hd6410d,423.0
+1837,radeon hd6530d,532.0
+1838,radeon hd7450,199.0
+1839,radeon hd8530m,490.0
+1840,radeon hd8970m,3369.0
+1841,radeon hdg 4670,170.0
+1842,radeon igp 320,4.0
+1843,radeon igp 320m,4.0
+1844,radeon igp 340m,3.0
+1845,radeon igp 345m,3.0
+1846,radeon igp 34xm,2.0
+1847,radeon igp 350m,6.0
+1848,radeon infoshock 3000,107.0
+1849,radeon instinct mi25 mxgpu,4979.0
+1850,radeon m535dx,750.0
+1851,radeon pro,2475.0
+1852,radeon pro 450,2723.0
+1853,radeon pro 455,3113.0
+1854,radeon pro 460,3453.0
+1855,radeon pro 465,4538.0
+1856,radeon pro 5300,7144.0
+1857,radeon pro 5300m,5960.0
+1858,radeon pro 5500 xt,8375.0
+1859,radeon pro 5500m,6771.0
+1860,radeon pro 555,3141.0
+1861,radeon pro 560,3475.0
+1862,radeon pro 5600m,9233.0
+1863,radeon pro 560x,3678.0
+1864,radeon pro 570,6337.0
+1865,radeon pro 5700,11844.0
+1866,radeon pro 5700 xt,12613.0
+1867,radeon pro 580,7753.0
+1868,radeon pro 580x,7540.0
+1869,radeon pro duo,8164.0
+1870,radeon pro ryzen 5 pro 6650u,4067.0
+1871,radeon pro ryzen 7 pro 6850u,5715.0
+1872,radeon pro ssg,10972.0
+1873,radeon pro v340 mxgpu,2853.0
+1874,radeon pro v520 mxgpu,12258.0
+1875,radeon pro vega 16,4809.0
+1876,radeon pro vega 20,5300.0
+1877,radeon pro vega 48,11300.0
+1878,radeon pro vega 56,12354.0
+1879,radeon pro vega 64,12920.0
+1880,radeon pro vega 64x,13709.0
+1881,radeon pro vega ii,15597.0
+1882,radeon pro vega ii duo,14018.0
+1883,radeon pro vii,12839.0
+1884,radeon pro w5500,9119.0
+1885,radeon pro w5500m,3470.0
+1886,radeon pro w5500x,7351.0
+1887,radeon pro w5700,15038.0
+1888,radeon pro w5700x,17591.0
+1889,radeon pro w6300,5560.0
+1890,radeon pro w6400,8082.0
+1891,radeon pro w6600,15596.0
+1892,radeon pro w6600m,9522.0
+1893,radeon pro w6600x,13113.0
+1894,radeon pro w6800,19791.0
+1895,radeon pro w7500,14498.0
+1896,radeon pro w7600,14227.0
+1897,radeon pro w7700,19227.0
+1898,radeon pro w7800,28601.0
+1899,radeon pro w7900,29471.0
+1900,radeon pro wx 2100,1835.0
+1901,radeon pro wx 3100,2540.0
+1902,radeon pro wx 3200,2415.0
+1903,radeon pro wx 4100,3648.0
+1904,radeon pro wx 4130,2168.0
+1905,radeon pro wx 4150,2615.0
+1906,radeon pro wx 4170,1409.0
+1907,radeon pro wx 5100,5560.0
+1908,radeon pro wx 7100,7869.0
+1909,radeon pro wx 7130,6715.0
+1910,radeon pro wx 8200,13527.0
+1911,radeon pro wx 9100,12470.0
+1912,radeon pro wx vega m gl,4643.0
+1913,radeon r1e,301.0
+1914,radeon r2,248.0
+1915,radeon r2e,212.0
+1916,radeon r3,306.0
+1917,radeon r3e,225.0
+1918,radeon r4,336.0
+1919,radeon r4e,487.0
+1920,radeon r5 220,148.0
+1921,radeon r5 230,222.0
+1922,radeon r5 235,336.0
+1923,radeon r5 235 + hd 7560d dual,744.0
+1924,radeon r5 235 + hd 8570d dual,738.0
+1925,radeon r5 235x,277.0
+1926,radeon r5 240,544.0
+1927,radeon r5 310,332.0
+1928,radeon r5 330,521.0
+1929,radeon r5 340,935.0
+1930,radeon r5 420,575.0
+1931,radeon r5 430,915.0
+1932,radeon r5 435,851.0
+1933,radeon r5 a10-9600p 4c+6g,619.0
+1934,"radeon r5 a10-9600p radeon r5, 10 compute cores 4c",700.0
+1935,radeon r5 a10-9620p 4c+6g,732.0
+1936,"radeon r5 a10-9620p radeon r5, 10 compute cores 4c",665.0
+1937,radeon r5 a10-9630p 4c+6g,977.0
+1938,"radeon r5 a10-9630p radeon r5, 10 compute cores 4c",751.0
+1939,radeon r5 a240,576.0
+1940,radeon r5 a6-7480,698.0
+1941,radeon r5 a6-8500p,587.0
+1942,"radeon r5 a6-9400 radeon r5, 6 compute cores 2c+4g",605.0
+1943,radeon r5 a6-9500 2c+6g,853.0
+1944,"radeon r5 a6-9500 radeon r5, 8 compute cores 2c+6g",929.0
+1945,radeon r5 a6-9500e 2c+4g,1015.0
+1946,"radeon r5 a6-9500e radeon r5, 6 compute cores 2c+4",727.0
+1947,radeon r5 m230,414.0
+1948,radeon r5 m240,450.0
+1949,radeon r5 m255,536.0
+1950,radeon r5 m315,474.0
+1951,radeon r5 m320,455.0
+1952,radeon r5 m330,596.0
+1953,radeon r5 m335,549.0
+1954,radeon r5 m420,487.0
+1955,radeon r5 m430,649.0
+1956,radeon r5 m435,804.0
+1957,radeon r5 opteron x3216,394.0
+1958,radeon r5 pro a10-8730b 4c+6g,695.0
+1959,"radeon r5 pro a10-8730b r5, 10 compute cores 4c+6g",612.0
+1960,radeon r5 pro a6-8500b 2c+4g,508.0
+1961,"radeon r5 pro a6-8500b r5, 6 compute cores 2c+4g",478.0
+1962,radeon r5 pro a6-8530b 2c+4g,690.0
+1963,"radeon r5 pro a6-8530b r5, 6 compute cores 2c+4g",346.0
+1964,radeon r5 pro a6-8570 2c+6g,847.0
+1965,"radeon r5 pro a6-8570 r5, 8 compute cores 2c+6g",985.0
+1966,radeon r5 pro a6-8570e 2c+4g,638.0
+1967,"radeon r5 pro a6-8570e r5, 6 compute cores 2c+4g",690.0
+1968,radeon r5 pro a6-9500 2c+6g,1096.0
+1969,"radeon r5 pro a6-9500 r5, 8 compute cores 2c+6g",794.0
+1970,radeon r5 pro a6-9500b 2c+4g,693.0
+1971,"radeon r5 pro a6-9500b r5, 6 compute cores 2c+4g",408.0
+1972,radeon r5 pro a6-9500e 2c+4g,771.0
+1973,radeon r5 pro a8-9600b 4c+6g,659.0
+1974,"radeon r5 pro a8-9600b r5, 10 compute cores 4c+6g",553.0
+1975,radeon r5e,301.0
+1976,radeon r6,618.0
+1977,radeon r6 + r7 m265dx dual,571.0
+1978,radeon r6 a10-8700p,541.0
+1979,radeon r6 a10-9600p 4c+6g,970.0
+1980,radeon r6 a8-8600p,475.0
+1981,radeon r6 m255dx,605.0
+1982,radeon r6 opteron x3418,955.0
+1983,radeon r6 pro a10-8700b 4c+6g,538.0
+1984,"radeon r6 pro a10-8700b r6, 10 compute cores 4c+6g",540.0
+1985,radeon r6 pro a8-8600b 4c+6g,532.0
+1986,"radeon r6 pro a8-8600b r6, 10 compute cores 4c+6g",590.0
+1987,radeon r7 + hd 7700 dual,1962.0
+1988,radeon r7 + r5 330 dual,1028.0
+1989,radeon r7 + r5 340 dual,1235.0
+1990,radeon r7 + r5 435 dual a10-9700 radeon,886.0
+1991,radeon r7 + r5 dual,898.0
+1992,radeon r7 + r7 200 dual,1077.0
+1993,radeon r7 + r7 240 dual,1045.0
+1994,radeon r7 + r7 250 dual,1232.0
+1995,radeon r7 + r7 350 dual,1982.0
+1996,radeon r7 +8g,1191.0
+1997,radeon r7 240,899.0
+1998,radeon r7 240 + hd 8570d dual,918.0
+1999,radeon r7 240 + hd 8670d dual,930.0
+2000,radeon r7 250,1060.0
+2001,radeon r7 250x,2269.0
+2002,radeon r7 260,2892.0
+2003,radeon r7 260x,3188.0
+2004,radeon r7 340,1000.0
+2005,radeon r7 360,3105.0
+2006,radeon r7 370,4510.0
+2007,radeon r7 430,1092.0
+2008,radeon r7 450,1923.0
+2009,radeon r7 7850a10-7850k,551.0
+2010,radeon r7 a10 extreme edition,816.0
+2011,radeon r7 a10 pro-7800b,780.0
+2012,radeon r7 a10 pro-7850b,822.0
+2013,radeon r7 a10-7700k,779.0
+2014,radeon r7 a10-7800,717.0
+2015,radeon r7 a10-7850k,962.0
+2016,radeon r7 a10-7860k,927.0
+2017,radeon r7 a10-7870k,1111.0
+2018,radeon r7 a10-7890k,975.0
+2019,radeon r7 a10-8750,856.0
+2020,radeon r7 a10-8850,773.0
+2021,radeon r7 a10-9700 radeon,926.0
+2022,radeon r7 a10-9700e radeon,900.0
+2023,radeon r7 a12-9700p radeon,731.0
+2024,radeon r7 a12-9720p radeon,735.0
+2025,radeon r7 a12-9730p radeon,1027.0
+2026,radeon r7 a12-9800 radeon,1081.0
+2027,radeon r7 a12-9800e radeon,913.0
+2028,radeon r7 a265,994.0
+2029,radeon r7 a360,608.0
+2030,radeon r7 a365,781.0
+2031,radeon r7 a370,1281.0
+2032,radeon r7 a8 pro-7600b,667.0
+2033,radeon r7 a8-7500,875.0
+2034,radeon r7 a8-7500 4c+6g,853.0
+2035,radeon r7 a8-7600,786.0
+2036,radeon r7 a8-7650k,745.0
+2037,radeon r7 a8-7670k,849.0
+2038,radeon r7 a8-7680,826.0
+2039,radeon r7 a8-7690k,1141.0
+2040,radeon r7 a8-7a8-7600,583.0
+2041,radeon r7 a8-8650,913.0
+2042,radeon r7 a8-9600 radeon,822.0
+2043,radeon r7 eng sample: zm2111c1y4382_34/21/13/06_98,422.0
+2044,radeon r7 fx-8800p,830.0
+2045,radeon r7 fx-9800p radeon,706.0
+2046,radeon r7 fx-9830p radeon,1465.0
+2047,radeon r7 g,870.0
+2048,radeon r7 m260,499.0
+2049,radeon r7 m260dx,817.0
+2050,radeon r7 m260x,986.0
+2051,radeon r7 m265,546.0
+2052,radeon r7 m265dx,499.0
+2053,radeon r7 m270,767.0
+2054,radeon r7 m270dx,962.0
+2055,radeon r7 m340,655.0
+2056,radeon r7 m350,1166.0
+2057,radeon r7 m360,573.0
+2058,radeon r7 m365x,751.0
+2059,radeon r7 m370,1418.0
+2060,radeon r7 m380,1669.0
+2061,radeon r7 m440,896.0
+2062,radeon r7 m445,943.0
+2063,radeon r7 m460,1072.0
+2064,radeon r7 m465,1125.0
+2065,radeon r7 m465x,1780.0
+2066,radeon r7 opteron x3421,1169.0
+2067,radeon r7 pro a10-8750b,768.0
+2068,radeon r7 pro a10-8770,918.0
+2069,radeon r7 pro a10-8770e,825.0
+2070,radeon r7 pro a10-8850b,945.0
+2071,radeon r7 pro a10-9700,799.0
+2072,radeon r7 pro a10-9700b,629.0
+2073,radeon r7 pro a10-9700e,971.0
+2074,radeon r7 pro a12-8800b,597.0
+2075,radeon r7 pro a12-8830b,614.0
+2076,radeon r7 pro a12-8870,905.0
+2077,radeon r7 pro a12-8870e,906.0
+2078,radeon r7 pro a12-9800,877.0
+2079,radeon r7 pro a12-9800b,702.0
+2080,radeon r7 pro a12-9800e,954.0
+2081,radeon r7 pro a6-9500 2c+6g,781.0
+2082,"radeon r7 pro a6-9500 r5, 8 compute cores 2c+6g",1293.0
+2083,radeon r7 pro a8-8650b,719.0
+2084,radeon r7 pro a8-8670e,1310.0
+2085,radeon r7 pro a8-9600,893.0
+2086,radeon r7e,565.0
+2087,radeon r8 m365dx,647.0
+2088,radeon r8 m445dx,797.0
+2089,radeon r8 m535dx,670.0
+2090,radeon r9 255,1420.0
+2091,radeon r9 260,3182.0
+2092,radeon r9 270,4306.0
+2093,radeon r9 270 / r7 370,4260.0
+2094,radeon r9 270x,4870.0
+2095,radeon r9 280,5557.0
+2096,radeon r9 280x,6176.0
+2097,radeon r9 285,6680.0
+2098,radeon r9 285 / 380,5550.0
+2099,radeon r9 290,8298.0
+2100,radeon r9 290 / 390,8150.0
+2101,radeon r9 290x,8623.0
+2102,radeon r9 290x / 390x,8389.0
+2103,radeon r9 295x2,8608.0
+2104,radeon r9 350,2003.0
+2105,radeon r9 360,3032.0
+2106,radeon r9 370,4722.0
+2107,radeon r9 380,6135.0
+2108,radeon r9 380x,6187.0
+2109,radeon r9 390,8910.0
+2110,radeon r9 390x,9416.0
+2111,radeon r9 a375,1024.0
+2112,radeon r9 fury,9593.0
+2113,radeon r9 fury + fury x,9741.0
+2114,radeon r9 fury x,9580.0
+2115,radeon r9 m265x,1140.0
+2116,radeon r9 m270x,1204.0
+2117,radeon r9 m275,1115.0
+2118,radeon r9 m275x,1616.0
+2119,radeon r9 m275x / m375,1575.0
+2120,radeon r9 m280x,814.0
+2121,radeon r9 m290x,3256.0
+2122,radeon r9 m295x,5150.0
+2123,radeon r9 m360,1812.0
+2124,radeon r9 m365x,1482.0
+2125,radeon r9 m370x,1555.0
+2126,radeon r9 m375,970.0
+2127,radeon r9 m375x,1808.0
+2128,radeon r9 m380,2774.0
+2129,radeon r9 m385,2061.0
+2130,radeon r9 m385x,1994.0
+2131,radeon r9 m390x,3597.0
+2132,radeon r9 m395,4911.0
+2133,radeon r9 m395x,5195.0
+2134,radeon r9 m470,2331.0
+2135,radeon r9 m470x,3244.0
+2136,radeon r9 m485x,3661.0
+2137,radeon rx 460,4101.0
+2138,radeon rx 470/570,8002.0
+2139,radeon rx 480,8624.0
+2140,radeon rx 5300,7580.0
+2141,radeon rx 5300m,4307.0
+2142,radeon rx 540,1896.0
+2143,radeon rx 550,2737.0
+2144,radeon rx 5500,8792.0
+2145,radeon rx 5500 xt,9138.0
+2146,radeon rx 5500m,5563.0
+2147,radeon rx 550x,2292.0
+2148,radeon rx 560,3645.0
+2149,radeon rx 5600,11490.0
+2150,radeon rx 5600 oem,12137.0
+2151,radeon rx 5600 xt,13632.0
+2152,radeon rx 5600m,8796.0
+2153,radeon rx 560x,3197.0
+2154,radeon rx 5700,14444.0
+2155,radeon rx 5700 xt,16572.0
+2156,radeon rx 5700 xt 50th anniversary,16568.0
+2157,radeon rx 570x,1923.0
+2158,radeon rx 580,8856.0
+2159,radeon rx 580 2048sp,7698.0
+2160,radeon rx 580x,7798.0
+2161,radeon rx 590,9390.0
+2162,radeon rx 6300,5419.0
+2163,radeon rx 640,1983.0
+2164,radeon rx 6400,7581.0
+2165,radeon rx 6500,7724.0
+2166,radeon rx 6500 xt,9568.0
+2167,radeon rx 6500m,7773.0
+2168,radeon rx 6550m,9604.0
+2169,radeon rx 6600,15153.0
+2170,radeon rx 6600 xt,16508.0
+2171,radeon rx 6600m,13766.0
+2172,radeon rx 6600s,13678.0
+2173,radeon rx 6650 xt,17213.0
+2174,radeon rx 6650m,15075.0
+2175,radeon rx 6650m xt,17071.0
+2176,radeon rx 6700,19323.0
+2177,radeon rx 6700 xt,19871.0
+2178,radeon rx 6700m,13587.0
+2179,radeon rx 6700s,14963.0
+2180,radeon rx 6750 gre 10gb,18614.0
+2181,radeon rx 6750 gre 12gb,19297.0
+2182,radeon rx 6750 xt,20796.0
+2183,radeon rx 6800,22209.0
+2184,radeon rx 6800 xt,25031.0
+2185,radeon rx 6800m,13263.0
+2186,radeon rx 6800s,15408.0
+2187,radeon rx 6850m,12274.0
+2188,radeon rx 6850m xt,17474.0
+2189,radeon rx 6900 xt,26794.0
+2190,radeon rx 6950 xt,28162.0
+2191,radeon rx 7600,16507.0
+2192,radeon rx 7600 xt,17221.0
+2193,radeon rx 7600m,3940.0
+2194,radeon rx 7600m xt,13185.0
+2195,radeon rx 7600s,14562.0
+2196,radeon rx 7700 xt,22342.0
+2197,radeon rx 7700s,15107.0
+2198,radeon rx 780,7898.0
+2199,radeon rx 7800 xt,24218.0
+2200,radeon rx 7900 gre,26683.0
+2201,radeon rx 7900 xt,28843.0
+2202,radeon rx 7900 xtx,31036.0
+2203,radeon rx 7900m,22365.0
+2204,radeon rx vega - renoir ryzen 3 5300u,2312.0
+2205,radeon rx vega 10,1636.0
+2206,radeon rx vega 10 ryzen 5 3500u,1778.0
+2207,radeon rx vega 10 ryzen 7 3700u,1506.0
+2208,radeon rx vega 10 ryzen 7 3750h,1841.0
+2209,radeon rx vega 10 ryzen 7 pro 3700u w/,1521.0
+2210,radeon rx vega 11,2114.0
+2211,radeon rx vega 11 prd,2402.0
+2212,radeon rx vega 11 processor,1861.0
+2213,radeon rx vega 11 ryzen 5 3350g,1854.0
+2214,radeon rx vega 11 ryzen 5 3400g,2181.0
+2215,radeon rx vega 11 ryzen 5 3400ge,2069.0
+2216,radeon rx vega 11 ryzen 7 3700u,2602.0
+2217,radeon rx vega 11 ryzen 7 3750h,1856.0
+2218,radeon rx vega 56,13229.0
+2219,radeon rx vega 6,1015.0
+2220,radeon rx vega 6 ryzen 3 3200u,906.0
+2221,radeon rx vega 64,14303.0
+2222,radeon rx vega 8,1501.0
+2223,radeon rx vega m gh,6585.0
+2224,radeon rx vega m gl,3791.0
+2225,radeon rx vega ryzen 3 5300u,2334.0
+2226,radeon rx vega ryzen 5 5500u,2280.0
+2227,radeon rx vega11,1605.0
+2228,radeon rx vega11 ryzen 7 3750h,1674.0
+2229,radeon rx vega11 ryzen 7 microsoft surface edition,1399.0
+2230,radeon rx590 gme,8574.0
+2231,radeon ryzen 3 3250u,785.0
+2232,radeon ryzen 3 5300u,1593.0
+2233,radeon ryzen 3 5425u,1547.0
+2234,radeon ryzen 3 7330u,1655.0
+2235,radeon ryzen 3 7335u,2126.0
+2236,radeon ryzen 3 pro 4355ge,1432.0
+2237,radeon ryzen 3 pro 5450u,1777.0
+2238,radeon ryzen 3 pro 5475u,1541.0
+2239,radeon ryzen 3 pro 7330u,1854.0
+2240,radeon ryzen 3 pro 7335u,2034.0
+2241,radeon ryzen 5 3450u,1124.0
+2242,radeon ryzen 5 4400g,2296.0
+2243,radeon ryzen 5 4600ge with radeon graphics,1896.0
+2244,radeon ryzen 5 5500gt,2649.0
+2245,radeon ryzen 5 5500u,2086.0
+2246,radeon ryzen 5 5560u,2043.0
+2247,radeon ryzen 5 5600ge,2573.0
+2248,radeon ryzen 5 5600gt,2618.0
+2249,radeon ryzen 5 5600h,2395.0
+2250,radeon ryzen 5 5600u,2111.0
+2251,radeon ryzen 5 5625u,2141.0
+2252,radeon ryzen 5 6600h,3695.0
+2253,radeon ryzen 5 6600hs creator edition,3754.0
+2254,radeon ryzen 5 6600u,3382.0
+2255,radeon ryzen 5 7430u,2165.0
+2256,radeon ryzen 5 7530u,2223.0
+2257,radeon ryzen 5 7535hs,3532.0
+2258,radeon ryzen 5 7535u,3315.0
+2259,radeon ryzen 5 7600 6-core,1834.0
+2260,radeon ryzen 5 7600x 6-core,1729.0
+2261,radeon ryzen 5 7600x3d 6-core,2005.0
+2262,radeon ryzen 5 microsoft surface edition,2081.0
+2263,radeon ryzen 5 pro 4500u,2078.0
+2264,radeon ryzen 5 pro 4655g,2376.0
+2265,radeon ryzen 5 pro 4655ge,2362.0
+2266,radeon ryzen 5 pro 5650g,2287.0
+2267,radeon ryzen 5 pro 5650ge,2381.0
+2268,radeon ryzen 5 pro 5655ge,2428.0
+2269,radeon ryzen 5 pro 5675u,1939.0
+2270,radeon ryzen 5 pro 6650h,3725.0
+2271,radeon ryzen 5 pro 6650u,3676.0
+2272,radeon ryzen 5 pro 7535u,3285.0
+2273,radeon ryzen 5 pro 7645 6-core,1552.0
+2274,radeon ryzen 7 3700u,1345.0
+2275,radeon ryzen 7 4700g,2614.0
+2276,radeon ryzen 7 4700ge,2610.0
+2277,radeon ryzen 7 4700u,2044.0
+2278,radeon ryzen 7 4800h,3491.0
+2279,radeon ryzen 7 4800hs,3598.0
+2280,radeon ryzen 7 4800u,2317.0
+2281,radeon ryzen 7 4850u mobile,2138.0
+2282,radeon ryzen 7 5700u,2308.0
+2283,radeon ryzen 7 5800h,2826.0
+2284,radeon ryzen 7 5800hs,2507.0
+2285,radeon ryzen 7 5800hs creator edition,2271.0
+2286,radeon ryzen 7 5800u,2411.0
+2287,radeon ryzen 7 5825u,2382.0
+2288,radeon ryzen 7 6800h,5442.0
+2289,radeon ryzen 7 6800hs,6181.0
+2290,radeon ryzen 7 6800hs creator edition,5461.0
+2291,radeon ryzen 7 6800u,4583.0
+2292,radeon ryzen 7 7700 8-core,1687.0
+2293,radeon ryzen 7 7700x 8-core,2135.0
+2294,radeon ryzen 7 7730u,2463.0
+2295,radeon ryzen 7 7735h,5191.0
+2296,radeon ryzen 7 7735hs,5321.0
+2297,radeon ryzen 7 7735u,5195.0
+2298,radeon ryzen 7 7736u,5792.0
+2299,radeon ryzen 7 7800x3d 8-core,1740.0
+2300,radeon ryzen 7 microsoft surface edition,2285.0
+2301,radeon ryzen 7 pro 4750g,2583.0
+2302,radeon ryzen 7 pro 4750ge,2368.0
+2303,radeon ryzen 7 pro 4750u,2052.0
+2304,radeon ryzen 7 pro 5875u,1989.0
+2305,radeon ryzen 7 pro 6850h,5708.0
+2306,radeon ryzen 7 pro 6850hs,5044.0
+2307,radeon ryzen 7 pro 6850u,5141.0
+2308,radeon ryzen 7 pro 6860z,4594.0
+2309,radeon ryzen 7 pro 7730u,2314.0
+2310,radeon ryzen 7 pro 7735u,4259.0
+2311,radeon ryzen 7 pro 7745 8-core,1582.0
+2312,radeon ryzen 9 4900h,2669.0
+2313,radeon ryzen 9 5900h,2961.0
+2314,radeon ryzen 9 5980hs,2749.0
+2315,radeon ryzen 9 6900hs,7184.0
+2316,radeon ryzen 9 6900hs creator edition,6012.0
+2317,radeon ryzen 9 7900 12-core,2225.0
+2318,radeon ryzen 9 7900x 12-core,2532.0
+2319,radeon ryzen 9 7900x3d 12-core,1697.0
+2320,radeon ryzen 9 7950x 16-core,4018.0
+2321,radeon ryzen 9 7950x3d 16-core,1639.0
+2322,radeon ryzen 9 pro 6950h,5963.0
+2323,radeon ryzen 9 pro 6950hs,4251.0
+2324,radeon ryzen 9 pro 7945 12-core,1726.0
+2325,radeon ryzen embedded r2314,1032.0
+2326,radeon ryzen embedded r2514,1482.0
+2327,radeon ryzen embedded r2544,1865.0
+2328,radeon ryzen embedded v2516,1528.0
+2329,radeon ryzen embedded v2546,2237.0
+2330,radeon ryzen embedded v2718,1999.0
+2331,radeon ryzen embedded v2748,1842.0
+2332,radeon sky 500,4709.0
+2333,radeon tm,5663.0
+2334,radeon tm r9 a360,2060.0
+2335,radeon ve,2.0
+2336,radeon vega 10,1564.0
+2337,radeon vega 10 mobile,1516.0
+2338,radeon vega 10 ryzen 7 pro 3700u w/,1653.0
+2339,radeon vega 11,1841.0
+2340,radeon vega 11 ryzen 5 pro 3350g,2349.0
+2341,radeon vega 11 ryzen 5 pro 3400g,1971.0
+2342,radeon vega 11 ryzen 5 pro 3400ge w/,1907.0
+2343,radeon vega 2,506.0
+2344,radeon vega 2 athlon silver 3050u,542.0
+2345,radeon vega 3,888.0
+2346,radeon vega 3 3020e,569.0
+2347,radeon vega 3 athlon 3000g,990.0
+2348,radeon vega 3 athlon 300ge,1044.0
+2349,radeon vega 3 athlon 300u,862.0
+2350,radeon vega 3 athlon 320ge,677.0
+2351,radeon vega 3 athlon gold 3150g,1334.0
+2352,radeon vega 3 athlon gold 3150u,598.0
+2353,radeon vega 3 athlon gold pro 3150ge,920.0
+2354,radeon vega 3 athlon pro 300ge w/,935.0
+2355,radeon vega 3 athlon silver 3050e,501.0
+2356,radeon vega 3 athlon silver 3050u,856.0
+2357,radeon vega 3 mobile,1034.0
+2358,radeon vega 3 ryzen 3 3200u,849.0
+2359,radeon vega 3 ryzen 3 3250u,778.0
+2360,radeon vega 3 ryzen embedded r1305g,359.0
+2361,radeon vega 3 ryzen embedded r1505g,737.0
+2362,radeon vega 3 ryzen embedded r1606g,639.0
+2363,radeon vega 6,1308.0
+2364,radeon vega 6 ryzen 3 3300u,1297.0
+2365,radeon vega 6 ryzen 3 3350u,1537.0
+2366,radeon vega 6 ryzen 3 pro 3300u w/,1370.0
+2367,radeon vega 8,1583.0
+2368,radeon vega 8 mobile,1428.0
+2369,radeon vega 8 ryzen 3 3200g,1929.0
+2370,radeon vega 8 ryzen 3 3200ge,1722.0
+2371,radeon vega 8 ryzen 3 pro 3200g,1837.0
+2372,radeon vega 8 ryzen 3 pro 3200ge w/,1498.0
+2373,radeon vega 8 ryzen 5 3450u,1253.0
+2374,radeon vega 8 ryzen 5 3500u,1394.0
+2375,radeon vega 8 ryzen 5 3550h,1681.0
+2376,radeon vega 8 ryzen 5 pro 3500u w/,1487.0
+2377,radeon vega 9,1590.0
+2378,radeon vega 9 ryzen 5 3550h,1561.0
+2379,radeon vega 9 ryzen 5 microsoft surface edition,1516.0
+2380,radeon vega frontier edition,13226.0
+2381,radeon vii,16660.0
+2382,radeon with 3 5300u ryzen 3 5300u,1266.0
+2383,radeon x1050,49.0
+2384,radeon x1200,33.0
+2385,radeon x1250,37.0
+2386,radeon x1270,31.0
+2387,radeon x1300,58.0
+2388,radeon x1300 pro,84.0
+2389,radeon x1550,67.0
+2390,radeon x1550 64-bit,48.0
+2391,radeon x1600,49.0
+2392,radeon x1600 pro,99.0
+2393,radeon x1600 pro / x1300xt,69.0
+2394,radeon x1600 xt,116.0
+2395,radeon x1650 gto,75.0
+2396,radeon x1650 pro,85.0
+2397,radeon x1650 se,71.0
+2398,radeon x1700 targa edition,117.0
+2399,radeon x1800 gto,141.0
+2400,radeon x1900 crossfire edition,137.0
+2401,radeon x1900 gt,146.0
+2402,radeon x1950 crossfire edition,151.0
+2403,radeon x1950 gt,106.0
+2404,radeon x1950 pro,113.0
+2405,radeon x300se,38.0
+2406,radeon x550,51.0
+2407,radeon x550xt,56.0
+2408,radeon x550xtx,71.0
+2409,radeon x600 256mb hypermemory,57.0
+2410,radeon x600 pro,67.0
+2411,radeon x600 se,49.0
+2412,radeon x600xt,92.0
+2413,radeon x700,73.0
+2414,radeon x700 pro,76.0
+2415,radeon x700 se,71.0
+2416,radeon x800 gt,84.0
+2417,radeon x800 gto,115.0
+2418,radeon x800 pro,65.0
+2419,radeon x800 pro/gto,73.0
+2420,radeon x800 se,130.0
+2421,radeon x800 xl,69.0
+2422,radeon x800 xt,98.0
+2423,radeon x800 xt platinum edition,81.0
+2424,radeon x800gt,80.0
+2425,radeon x850 pro,73.0
+2426,radeon x850 xt,81.0
+2427,radeon x850 xt platinum edition,82.0
+2428,radeon xpress 1100,34.0
+2429,radeon xpress 1150,30.0
+2430,radeon xpress 1200,36.0
+2431,radeon xpress 1250,43.0
+2432,radeon xpress 1270,27.0
+2433,radeon xpress 1300,52.0
+2434,radeon xpress 1300m,40.0
+2435,radeon xpress 200,30.0
+2436,radeon xpress 200 crossfire,18.0
+2437,radeon xpress 200m,23.0
+2438,radeont 610m,1101.0
+2439,radeont 660m ryzen 5 7535hs,4051.0
+2440,radeont 680m ryzen 7 7735hs,5651.0
+2441,radeont 760m,5846.0
+2442,radeont 780m,7103.0
+2443,radeont rx 6850m xt,13848.0
+2444,radeont rx vega 11,1621.0
+2445,radeont vega 8,1894.0
+2446,rage 128 pro,1.0
+2447,rage 128 pro agp 4x tmds,1.0
+2448,rage fury pro/xpert 2000 pro,3.0
+2449,rdpdd chained dd,200.0
+2450,red hat qxl controller,32.0
+2451,rgh drivers v3,11.0
+2452,riva tnt2 model 64/model 64 pro,4.0
+2453,riva tnt2/tnt2 pro,3.0
+2454,rtx 1000 ada generation laptop gpu,14116.0
+2455,rtx 2000 ada generation,17810.0
+2456,rtx 2000 ada generation laptop gpu,15253.0
+2457,rtx 3000 ada generation laptop gpu,16345.0
+2458,rtx 3500 ada generation laptop gpu,18947.0
+2459,rtx 4000 ada generation,25014.0
+2460,rtx 4000 ada generation laptop gpu,23015.0
+2461,rtx 4000 sff ada generation,20922.0
+2462,rtx 4500 ada generation,29817.0
+2463,rtx 500 ada generation laptop gpu,11331.0
+2464,rtx 5000 ada generation,28000.0
+2465,rtx 5000 ada generation laptop gpu,23992.0
+2466,rtx 5880 ada generation,34569.0
+2467,rtx 6000 ada generation,27821.0
+2468,rtx a1000,11062.0
+2469,rtx a1000 6gb laptop gpu,10124.0
+2470,rtx a1000 embedded gpu,11369.0
+2471,rtx a1000 laptop gpu,9533.0
+2472,rtx a2000,13726.0
+2473,rtx a2000 12gb,13692.0
+2474,rtx a2000 8gb laptop gpu,10943.0
+2475,rtx a2000 laptop gpu,9934.0
+2476,rtx a3000 12gb laptop gpu,14350.0
+2477,rtx a3000 laptop gpu,12493.0
+2478,rtx a400,3565.0
+2479,rtx a4000,19431.0
+2480,rtx a4000 laptop gpu,15354.0
+2481,rtx a4500,21669.0
+2482,rtx a4500 embedded gpu,10916.0
+2483,rtx a4500 laptop gpu,17452.0
+2484,rtx a500 laptop gpu,6776.0
+2485,rtx a5000,22848.0
+2486,rtx a5000 laptop gpu,16066.0
+2487,rtx a5500,22282.0
+2488,rtx a5500 laptop gpu,17350.0
+2489,rtx a6000,22608.0
+2490,rtxa5000-6q,1522.0
+2491,rtxa6000-8q,4237.0
+2492,rv530 pro,119.0
+2493,ryzen 3 4300g with radeon graphics,2059.0
+2494,ryzen 3 4300ge with radeon graphics,2271.0
+2495,ryzen 3 4300u with radeon graphics,1359.0
+2496,ryzen 3 5300g with radeon graphics,1945.0
+2497,ryzen 3 5300ge with radeon graphics,1917.0
+2498,ryzen 3 5300u with radeon graphics,1528.0
+2499,ryzen 3 5400u with radeon graphics,1584.0
+2500,ryzen 3 5425u with radeon graphics,1668.0
+2501,ryzen 3 7330u with radeon graphics,1650.0
+2502,ryzen 3 pro 4200g with radeon graphics,1799.0
+2503,ryzen 3 pro 4200ge with radeon graphics,1748.0
+2504,ryzen 3 pro 4300u with radeon graphics,1543.0
+2505,ryzen 3 pro 4350g with radeon graphics,2125.0
+2506,ryzen 3 pro 4350ge with radeon graphics,1896.0
+2507,ryzen 3 pro 4450u with radeon graphics,1539.0
+2508,ryzen 3 pro 5350g with radeon graphics,2324.0
+2509,ryzen 3 pro 5350ge with radeon graphics,1785.0
+2510,ryzen 3 pro 5450u with radeon graphics,1601.0
+2511,ryzen 3 pro 5475u with radeon graphics,1432.0
+2512,ryzen 3 pro 7330u with radeon graphics,1985.0
+2513,ryzen 5 2500u with radeon vega,1503.0
+2514,ryzen 5 4500u with radeon graphics,1819.0
+2515,ryzen 5 4600g with radeon graphics,2370.0
+2516,ryzen 5 4600h with radeon graphics,2191.0
+2517,ryzen 5 4600hs with radeon graphics,8371.0
+2518,ryzen 5 4600u with radeon graphics,1901.0
+2519,ryzen 5 5500gt with radeon graphics,2517.0
+2520,ryzen 5 5500u with radeon graphics,1991.0
+2521,ryzen 5 5560u with radeon graphics,2073.0
+2522,ryzen 5 5600g with radeon graphics,2582.0
+2523,ryzen 5 5600ge with radeon graphics,2602.0
+2524,ryzen 5 5600gt with radeon graphics,2007.0
+2525,ryzen 5 5600h with radeon graphics,2336.0
+2526,ryzen 5 5600u with radeon graphics,2178.0
+2527,ryzen 5 5625u with radeon graphics,1989.0
+2528,ryzen 5 6600h with radeon graphics,3525.0
+2529,ryzen 5 6600hs creator edition,3671.0
+2530,ryzen 5 6600u with radeon graphics,3233.0
+2531,ryzen 5 7530u with radeon graphics,2269.0
+2532,ryzen 5 7535hs with radeon graphics,3680.0
+2533,ryzen 5 7535u with radeon graphics,3529.0
+2534,ryzen 5 pro 4400g with radeon graphics,2306.0
+2535,ryzen 5 pro 4400ge with radeon graphics,1442.0
+2536,ryzen 5 pro 4500u with radeon graphics,2008.0
+2537,ryzen 5 pro 4650g with radeon graphics,2399.0
+2538,ryzen 5 pro 4650ge with radeon graphics,2114.0
+2539,ryzen 5 pro 4650u with radeon graphics,1754.0
+2540,ryzen 5 pro 5650g with radeon graphics,2501.0
+2541,ryzen 5 pro 5650ge with radeon graphics,2436.0
+2542,ryzen 5 pro 5650u with radeon graphics,2049.0
+2543,ryzen 5 pro 5675u with radeon graphics,1720.0
+2544,ryzen 5 pro 6650h with radeon graphics,3727.0
+2545,ryzen 5 pro 6650u,3519.0
+2546,ryzen 5 pro 6650u with radeon graphics,3515.0
+2547,ryzen 5 pro 7530u with radeon graphics,1939.0
+2548,ryzen 7 2700u with radeon vega,1617.0
+2549,ryzen 7 4700g with radeon graphics,2187.0
+2550,ryzen 7 4700ge with radeon graphics,2496.0
+2551,ryzen 7 4700u with radeon graphics,2034.0
+2552,ryzen 7 4800h with radeon graphics,2113.0
+2553,ryzen 7 4800hs with radeon graphics,6999.0
+2554,ryzen 7 4800u with radeon graphics,2344.0
+2555,ryzen 7 5700g with radeon graphics,2795.0
+2556,ryzen 7 5700ge with radeon graphics,2771.0
+2557,ryzen 7 5700u with radeon graphics,2246.0
+2558,ryzen 7 5800h with radeon graphics,2740.0
+2559,ryzen 7 5800hs with radeon graphics,2917.0
+2560,ryzen 7 5800u with radeon graphics,2362.0
+2561,ryzen 7 5825u with radeon graphics,2343.0
+2562,ryzen 7 6800h,5248.0
+2563,ryzen 7 6800h with radeon graphics,4801.0
+2564,ryzen 7 6800hs,5237.0
+2565,ryzen 7 6800hs creator edition,5382.0
+2566,ryzen 7 6800hs with radeon graphics,6677.0
+2567,ryzen 7 6800u,5006.0
+2568,ryzen 7 6800u with radeon graphics,4829.0
+2569,ryzen 7 7730u with radeon graphics,2470.0
+2570,ryzen 7 7735hs with radeon graphics,5128.0
+2571,ryzen 7 7735u with radeon graphics,5216.0
+2572,ryzen 7 extreme edition,2227.0
+2573,ryzen 7 pro 4700g with radeon graphics,2880.0
+2574,ryzen 7 pro 4750g with radeon graphics,2682.0
+2575,ryzen 7 pro 4750ge with radeon graphics,2550.0
+2576,ryzen 7 pro 4750u with radeon graphics,2030.0
+2577,ryzen 7 pro 5750g with radeon graphics,2441.0
+2578,ryzen 7 pro 5750ge with radeon graphics,2528.0
+2579,ryzen 7 pro 5850u with radeon graphics,2271.0
+2580,ryzen 7 pro 5875u with radeon graphics,2067.0
+2581,ryzen 7 pro 6850hs with radeon graphics,3736.0
+2582,ryzen 7 pro 6850u,5581.0
+2583,ryzen 7 pro 6850u with radeon graphics,5116.0
+2584,ryzen 7 pro 6860z,5077.0
+2585,ryzen 7 pro 6860z with radeon graphics,4869.0
+2586,ryzen 7 pro 7730u with radeon graphics,2549.0
+2587,ryzen 9 4900h with radeon graphics,2714.0
+2588,ryzen 9 4900hs with radeon graphics,7419.0
+2589,ryzen 9 4900hss with radeon graphics,9461.0
+2590,ryzen 9 5900hs with radeon graphics,5570.0
+2591,ryzen 9 5900hx with radeon graphics,2887.0
+2592,ryzen 9 5980hs with radeon graphics,2534.0
+2593,ryzen 9 6900hs,8005.0
+2594,ryzen 9 6900hs with radeon graphics,6098.0
+2595,ryzen 9 6900hx with radeon graphics,5354.0
+2596,ryzen 9 pro 6950h,5759.0
+2597,ryzen 9 pro 6950h with radeon graphics,5828.0
+2598,ryzen 9 pro 6950hs with radeon graphics,4705.0
+2599,ryzen3 5300u ryzen 3 5300u,1268.0
+2600,s3 5400ew,146.0
+2601,s3 chrome 430 ulp,40.0
+2602,s3 chrome s25,23.0
+2603,s3 chrome s25 ddr2,18.0
+2604,s3 chrome s27 ddr3,33.0
+2605,s3 inc. savage4,3.0
+2606,s3 prosavageddr,1.0
+2607,s3 supersavage/ixc 1014,2.0
+2608,sapphire radeon 9000 atlantis pro,5.0
+2609,sapphire radeon 9600 atlantis,47.0
+2610,sapphire radeon x1550,61.0
+2611,sapphire radeon x800 gt,113.0
+2612,seria mobility radeon hd 3400,125.0
+2613,seria radeon hd 7700,1604.0
+2614,snapdragon x elite - x1e001de - qualcomm adreno gp,3276.0
+2615,snapdragon x elite - x1e78100 - qualcomm adreno gp,2572.0
+2616,snapdragon x elite - x1e80100 - qualcomm adreno gp,2607.0
+2617,snapdragon x elite - x1e84100 - qualcomm adreno gp,2981.0
+2618,snapdragon x plus - x1p64100 - qualcomm adreno gpu,2569.0
+2619,sumo 9640,650.0
+2620,sumo 9644,466.0
+2621,sumo 964a,498.0
+2622,superdisplay virtual adapter,10390.0
+2623,surface duo adreno 640 gpu,592.0
+2624,t1000,7643.0
+2625,t1000 8gb,7573.0
+2626,t1200 laptop gpu,7804.0
+2627,t400,3625.0
+2628,t400 4gb,3760.0
+2629,t500,3674.0
+2630,t550 laptop gpu,4834.0
+2631,t600,6464.0
+2632,t600 laptop gpu,7071.0
+2633,tensor 1.0 driver intel hd 530,958.0
+2634,tensor 1.0 driver intel hd 630,1300.0
+2635,tesla c2050,3176.0
+2636,tesla c2050 / c2070,3428.0
+2637,tesla c2070,3121.0
+2638,tesla c2075,3017.0
+2639,tesla k20m,4432.0
+2640,tesla k20xm,2918.0
+2641,tesla k40c,4495.0
+2642,tesla k40m,3281.0
+2643,tesla k80,5852.0
+2644,tesla m10,3172.0
+2645,tesla m2070-q,1306.0
+2646,tesla m40,10465.0
+2647,tesla m40 24gb,10418.0
+2648,tesla m6,6284.0
+2649,tesla m60,7551.0
+2650,tesla p100-pcie-16gb,7225.0
+2651,tesla p4,8922.0
+2652,tesla p40,12190.0
+2653,tesla t10,12650.0
+2654,tesla t4,10744.0
+2655,tesla v100-pcie-16gb,12328.0
+2656,tesla v100-pcie-32gb,8260.0
+2657,tesla v100-sxm2-16gb,16235.0
+2658,titan rtx,19946.0
+2659,titan v,19743.0
+2660,titan v ceo edition,16988.0
+2661,titan xp collectors edition,19106.0
+2662,trinity devastator mobile,699.0
+2663,trinity scrapper mobile,498.0
+2664,usb mobile monitor virtual display,867.0
+2665,v9560xt,6.0
+2666,vanta/vanta lt,3.0
+2667,via chrome9 hc igp,4.0
+2668,via chrome9 hc igp family,4.0
+2669,via chrome9 hc igp family wddm,4.0
+2670,via chrome9 hc igp prerelease wddm 1.1,2.0
+2671,via chrome9 hc igp wddm,3.0
+2672,via chrome9 hc igp wddm 1.1,3.0
+2673,via chrome9 hc3 igp,3.0
+2674,via chrome9 hc3 igp wddm 1.1,1.0
+2675,via chrome9 hcm igp,2.0
+2676,via chrome9 hd igp,9.0
+2677,via/s3 chrome 520 igp,115.0
+2678,via/s3g c-645/640 gpu,132.0
+2679,via/s3g chrome 645/640 gpu,110.0
+2680,via/s3g deltachrome igp,3.0
+2681,via/s3g km400/kn400,4.0
+2682,via/s3g unichrome igp,4.0
+2683,via/s3g unichrome pro igp,5.0
+2684,via/s3g unichromeii,6.0
+2685,virtual display device,1650.0
+2686,visiontek radeon 7000,2.0
+2687,winfast a250 le,5.0
+2688,winsta0\\default,4125.0
+2689,xabre,5.0
+2690,xgi volari family v1.13.23.d_v,5.0
+2691,zx c-1080,352.0
+2692,zx c-960,83.0
+2693,zx chrome 645/640 gpu,147.0
